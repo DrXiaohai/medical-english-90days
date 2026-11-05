@@ -1,0 +1,1747 @@
+[
+  {
+    "id": "exam-1",
+    "title": "模拟一 · 构词与临床信息识别",
+    "minutes": 60,
+    "pointsPerQuestion": 2,
+    "questions": [
+      {
+        "id": "exam-1-q1",
+        "stem": "Which term contains a suffix meaning enlargement rather than inflammation?",
+        "options": [
+          "Hepatitis",
+          "Nephritis",
+          "Gastritis",
+          "Splenomegaly"
+        ],
+        "answer": 3,
+        "explanation": "megaly表示增大，其他选项含itis表示炎症。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q2",
+        "stem": "A note says that the cause is possible. Which revision retains that certainty?",
+        "options": [
+          "The finding may reflect the condition",
+          "The finding proves the condition",
+          "The condition is inevitable",
+          "The condition has been excluded"
+        ],
+        "answer": 0,
+        "explanation": "may保留可能性，其他改变确定程度或方向。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q3",
+        "stem": "Which noun correctly completes These ___ were reviewed?",
+        "options": [
+          "diagnose",
+          "diagnoses",
+          "diagnosis",
+          "diagnostic"
+        ],
+        "answer": 1,
+        "explanation": "these与were要求复数名词diagnoses。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q4",
+        "stem": "A lesion distal to the knee lies in which direction?",
+        "options": [
+          "Deeper beneath the skin by definition",
+          "Closer to the midline by definition",
+          "Farther along the limb away from its attachment",
+          "Closer to the trunk than the knee"
+        ],
+        "answer": 2,
+        "explanation": "distal描述肢体远端，不等于深或内侧。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q5",
+        "stem": "Which phrase describes a patient-reported symptom rather than an observed sign?",
+        "options": [
+          "The examiner sees a rash",
+          "The thermometer records fever",
+          "The pulse is counted as rapid",
+          "The patient feels nauseated"
+        ],
+        "answer": 3,
+        "explanation": "恶心是主观感受，其余为观察测量。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q6",
+        "stem": "Which term means removal rather than creation of an opening?",
+        "options": [
+          "Nephrectomy",
+          "Colostomy",
+          "Tracheostomy",
+          "Ileostomy"
+        ],
+        "answer": 0,
+        "explanation": "ectomy表示切除，ostomy表示造口。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q7",
+        "stem": "Which sentence correctly distinguishes artery from vein?",
+        "options": [
+          "Both are defined only by oxygen content",
+          "An artery carries blood away from the heart",
+          "An artery always carries oxygen-rich blood",
+          "A vein always carries oxygen-poor blood"
+        ],
+        "answer": 1,
+        "explanation": "按血流相对心脏方向命名。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q8",
+        "stem": "Which result is a description of morphology rather than a cause?",
+        "options": [
+          "A named inherited disorder",
+          "A proven medication-induced process",
+          "Microcytic red cells",
+          "Confirmed iron loss from an identified lesion"
+        ],
+        "answer": 2,
+        "explanation": "microcytic描述细胞大小，不确定病因。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q9",
+        "stem": "Which change would incorrectly increase certainty?",
+        "options": [
+          "Retaining may",
+          "Keeping not yet known",
+          "Preserving possible",
+          "Replacing suggests with confirms"
+        ],
+        "answer": 3,
+        "explanation": "confirms强于suggests。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q10",
+        "stem": "Which description distinguishes dysphagia from odynophagia?",
+        "options": [
+          "Difficulty swallowing versus pain on swallowing",
+          "Pain on swallowing versus cough",
+          "Vomiting blood versus passing blood",
+          "Thirst versus urine volume"
+        ],
+        "answer": 0,
+        "explanation": "吞咽困难与吞咽痛应区分。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q11",
+        "stem": "Case A. A patient reports cough for six days. The temperature is measured as elevated, and a chest image shows a focal opacity. No microbiological result is available. The clinician considers pneumonia and arranges further assessment.\n\nWhich item is a subjective report?",
+        "options": [
+          "A documented culture result",
+          "Cough reported by the patient",
+          "The measured temperature",
+          "The image opacity"
+        ],
+        "answer": 1,
+        "explanation": "咳嗽由患者陈述，其他已有客观或未提供信息。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q12",
+        "stem": "In Case A, which conclusion is premature?",
+        "options": [
+          "The patient has reported cough",
+          "Further assessment is planned",
+          "A specific bacterium has been identified",
+          "A focal opacity is present"
+        ],
+        "answer": 2,
+        "explanation": "没有病原学结果，不能确定具体细菌。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q13",
+        "stem": "In Case A, what does focal opacity belong to?",
+        "options": [
+          "Medication history",
+          "A subjective symptom alone",
+          "A histological subtype",
+          "Imaging findings"
+        ],
+        "answer": 3,
+        "explanation": "opacity为影像描述。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q14",
+        "stem": "In Case A, what duration is provided?",
+        "options": [
+          "Six days of cough",
+          "Six months of proven infection",
+          "Two hours of fever",
+          "No duration of any symptom"
+        ],
+        "answer": 0,
+        "explanation": "原文明确咳嗽六天。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q15",
+        "stem": "In Case A, which summary preserves the status?",
+        "options": [
+          "No abnormal finding exists",
+          "Pneumonia is being considered with further assessment planned",
+          "Bacterial pneumonia is microbiologically proven",
+          "Every alternative has been excluded"
+        ],
+        "answer": 1,
+        "explanation": "应保留初步考虑及待评估。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q16",
+        "stem": "Case B. A medicine list contains a drug name and dose but no frequency. The patient owns two formulations. A pharmacist asks the prescriber to clarify the instruction and then asks the patient to explain the revised plan back.\n\nWhat is missing initially?",
+        "options": [
+          "Every dose amount",
+          "The existence of formulations",
+          "Frequency",
+          "The medicine name"
+        ],
+        "answer": 2,
+        "explanation": "原文明确缺少频次。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q17",
+        "stem": "In Case B, why avoid guessing from the product name?",
+        "options": [
+          "All products share a schedule",
+          "The dose is never relevant",
+          "The patient should decide randomly",
+          "The name alone does not define the full schedule"
+        ],
+        "answer": 3,
+        "explanation": "药名不足以确定用法。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q18",
+        "stem": "In Case B, what is the purpose of explaining the plan back?",
+        "options": [
+          "Checking understanding",
+          "Testing the patient's accent",
+          "Changing the diagnosis",
+          "Replacing the prescription"
+        ],
+        "answer": 0,
+        "explanation": "复述帮助核对理解。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q19",
+        "stem": "In Case B, why do formulations matter?",
+        "options": [
+          "They remove the need to verify frequency",
+          "Instructions can differ between formulations",
+          "They differ only in spelling",
+          "They always have the same route"
+        ],
+        "answer": 1,
+        "explanation": "剂型可影响使用说明。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-1-q20",
+        "stem": "In Case B, which statement reflects the correct sequence?",
+        "options": [
+          "The old incomplete instruction is ignored without checking",
+          "Every medicine is stopped automatically",
+          "Clarification precedes advice based on the revised instruction",
+          "A frequency is guessed before clarification"
+        ],
+        "answer": 2,
+        "explanation": "先核实再基于完整说明指导。",
+        "tag": "模拟综合"
+      }
+    ],
+    "translations": [
+      {
+        "id": "exam-1-t1",
+        "direction": "en-zh",
+        "source": "The patient reports pain that began after exercise.",
+        "reference": "患者诉运动后开始出现的疼痛。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "that从句修饰pain，after仅表时间。",
+        "commonError": "把先后关系写成运动必然导致损伤。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t2",
+        "direction": "en-zh",
+        "source": "No definite cause has been identified despite the initial examination.",
+        "reference": "尽管进行了初步检查，尚未确定明确病因。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "despite加名词，完成时否定被动。",
+        "commonError": "漏译definite或not。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t3",
+        "direction": "en-zh",
+        "source": "The findings may support inflammation, but they do not identify an organism.",
+        "reference": "这些发现可能支持炎症，但不能确定病原生物。",
+        "terms": [
+          "organ 器官",
+          "inflammation 炎症"
+        ],
+        "grammar": "may与but保留证据边界。",
+        "commonError": "把炎症译为已确证感染。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t4",
+        "direction": "en-zh",
+        "source": "The dose is recorded separately from the frequency of administration.",
+        "reference": "剂量与给药频次分别记录。",
+        "terms": [
+          "dose 剂量",
+          "frequency 频次"
+        ],
+        "grammar": "separately from区分两个字段。",
+        "commonError": "把频次当剂量。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t5",
+        "direction": "en-zh",
+        "source": "Only one criterion was applied to each sample.",
+        "reference": "每份标本仅应用了一项标准。",
+        "terms": [
+          "criterion 标准；准则"
+        ],
+        "grammar": "only限定one，each限定分配范围。",
+        "commonError": "使用criteria作单数。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t6",
+        "direction": "en-zh",
+        "source": "The examination provides information about the organ without establishing every possible diagnosis.",
+        "reference": "该检查提供器官相关信息，但不能确立所有可能诊断。",
+        "terms": [
+          "diagnosis 诊断",
+          "organ 器官"
+        ],
+        "grammar": "without限制结论范围。",
+        "commonError": "扩展检查能力。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t7",
+        "direction": "zh-en",
+        "source": "医生询问症状的起始时间和持续时间。",
+        "reference": "The clinician asks about the onset and duration of the symptoms.",
+        "terms": [
+          "symptom 症状",
+          "onset 起病；发生",
+          "duration 持续时间"
+        ],
+        "grammar": "ask about后接并列宾语。",
+        "commonError": "漏掉一个时间维度。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t8",
+        "direction": "zh-en",
+        "source": "报告应区分观察所得与推断所得。",
+        "reference": "The report should distinguish what was observed from what was inferred.",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "两个what从句作distinguish的对象。",
+        "commonError": "把推断当事实。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t9",
+        "direction": "zh-en",
+        "source": "患者吞咽固体食物有困难。",
+        "reference": "The patient has difficulty swallowing solid food.",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "have difficulty加动名词。",
+        "commonError": "写成疼痛而非困难。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-1-t10",
+        "direction": "zh-en",
+        "source": "确证病因前需要进一步评估。",
+        "reference": "Further assessment is needed before the cause can be confirmed.",
+        "terms": [
+          "assessment 评估"
+        ],
+        "grammar": "before从句表条件与时间。",
+        "commonError": "写成评估已经证实原因。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exam-2",
+    "title": "模拟二 · 心肺与消化病例",
+    "minutes": 70,
+    "pointsPerQuestion": 2,
+    "questions": [
+      {
+        "id": "exam-2-q1",
+        "stem": "Which observation most directly describes orthopnea?",
+        "options": [
+          "Blood is passed in urine",
+          "The pulse is irregular without symptoms",
+          "Breathlessness worsens when lying flat",
+          "Pain appears only on swallowing"
+        ],
+        "answer": 2,
+        "explanation": "orthopnea为平卧时呼吸困难。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q2",
+        "stem": "What does an elevated troponin establish most directly when appropriately interpreted?",
+        "options": [
+          "A coronary thrombus in every case",
+          "A bacterial cause",
+          "A specific final infarction mechanism",
+          "Myocardial injury"
+        ],
+        "answer": 3,
+        "explanation": "心肌损伤与梗死病因需区分。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q3",
+        "stem": "Which statement about preserved ejection fraction is accurate?",
+        "options": [
+          "It does not by itself exclude heart failure",
+          "It proves all cardiac function is normal",
+          "It excludes every cause of breathlessness",
+          "It means no assessment is needed"
+        ],
+        "answer": 0,
+        "explanation": "射血分数保留不能单独排除心衰。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q4",
+        "stem": "Which concept differs from oxygenation?",
+        "options": [
+          "Hemoglobin oxygen loading",
+          "Ventilation, which concerns movement of air",
+          "Oxygen saturation as a measure of oxygen binding",
+          "Arterial oxygen assessment"
+        ],
+        "answer": 1,
+        "explanation": "通气关注空气进出，与氧合不同。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q5",
+        "stem": "Which term describes blood coughed from the respiratory tract?",
+        "options": [
+          "Hematuria",
+          "Hematochezia",
+          "Hemoptysis",
+          "Hematemesis"
+        ],
+        "answer": 2,
+        "explanation": "hemoptysis为咯血。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q6",
+        "stem": "Which feature should be retained when translating episodic symptoms?",
+        "options": [
+          "An assumption of constant symptoms",
+          "A definite mechanism not provided",
+          "A guaranteed prognosis",
+          "The symptom-free intervals"
+        ],
+        "answer": 3,
+        "explanation": "episodic需保留间歇性。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q7",
+        "stem": "Which organ produces bile that is stored in the gallbladder?",
+        "options": [
+          "Liver",
+          "Pancreas",
+          "Stomach",
+          "Colon"
+        ],
+        "answer": 0,
+        "explanation": "肝脏产生胆汁，胆囊储存。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q8",
+        "stem": "What does portal hypertension help explain in the appropriate setting?",
+        "options": [
+          "Every high glucose reading",
+          "Varices and ascites",
+          "Every case of urinary frequency",
+          "Every skin lesion"
+        ],
+        "answer": 1,
+        "explanation": "门静脉高压与静脉曲张及腹水相关。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q9",
+        "stem": "Which finding is most directly about hepatocellular injury rather than a complete function assessment?",
+        "options": [
+          "A complete assessment of synthetic function",
+          "A documented long-term prognosis",
+          "Aminotransferase elevation",
+          "A full clinical review"
+        ],
+        "answer": 2,
+        "explanation": "氨基转移酶反映损伤线索。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q10",
+        "stem": "Which phrase would preserve a planned investigation?",
+        "options": [
+          "Imaging has confirmed the diagnosis",
+          "Imaging has excluded every cause",
+          "Imaging proved the mechanism yesterday",
+          "Imaging is being arranged"
+        ],
+        "answer": 3,
+        "explanation": "安排中不等于已有结果。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q11",
+        "stem": "Case C. A man develops exertional chest pressure that now occurs more often than before. No current ECG or biomarker result is provided. His clinician arranges prompt evaluation and asks about the timing, duration, and associated symptoms.\n\nWhich change increases concern?",
+        "options": [
+          "Increasing frequency of episodes",
+          "Only the patient's vocabulary",
+          "A documented normal ECG",
+          "A proven absence of risk"
+        ],
+        "answer": 0,
+        "explanation": "频率增加为病史变化。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q12",
+        "stem": "In Case C, what is not available?",
+        "options": [
+          "A plan for evaluation",
+          "Current investigation results",
+          "Exertional discomfort",
+          "A change in pattern"
+        ],
+        "answer": 1,
+        "explanation": "没有当前心电或标志物结果。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q13",
+        "stem": "In Case C, which wording is justified?",
+        "options": [
+          "The cause is certainly noncardiac",
+          "The patient has no relevant symptoms",
+          "The symptoms raise concern and require assessment",
+          "A coronary blockage is proven"
+        ],
+        "answer": 2,
+        "explanation": "应保留疑虑及待评估。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q14",
+        "stem": "In Case C, why record duration separately from frequency?",
+        "options": [
+          "They are always synonyms",
+          "Duration automatically gives the cause",
+          "Frequency measures blood pressure",
+          "They describe different dimensions of the episodes"
+        ],
+        "answer": 3,
+        "explanation": "持续时间与频率不同。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q15",
+        "stem": "In Case C, which added detail would be fabricated?",
+        "options": [
+          "A specific elevated biomarker value",
+          "The exertional trigger",
+          "The more frequent episodes",
+          "The planned assessment"
+        ],
+        "answer": 0,
+        "explanation": "未给具体化验数值。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q16",
+        "stem": "Case D. A patient with known cirrhosis develops dark tarry stool and lightheadedness. Varices were found in the past, but no current endoscopy has been performed. The team assesses circulation while investigating the source.\n\nWhich source statement is most accurate?",
+        "options": [
+          "No gastrointestinal bleeding is possible",
+          "The current source remains to be established",
+          "Varices are definitely the source because of history",
+          "A duodenal ulcer is confirmed"
+        ],
+        "answer": 1,
+        "explanation": "既往病变不确证本次来源。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q17",
+        "stem": "In Case D, which symptom adds physiological concern?",
+        "options": [
+          "Only the date of old endoscopy",
+          "Only stool terminology",
+          "Lightheadedness",
+          "Only the word cirrhosis"
+        ],
+        "answer": 2,
+        "explanation": "头晕需结合循环状态评估。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q18",
+        "stem": "In Case D, what does tarry stool suggest?",
+        "options": [
+          "A guaranteed lower rectal lesion",
+          "A definite respiratory source",
+          "A measured urine abnormality",
+          "Possible digested gastrointestinal blood"
+        ],
+        "answer": 3,
+        "explanation": "黑粪提示消化道出血线索而非绝对定位。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q19",
+        "stem": "In Case D, what happens while the source is investigated?",
+        "options": [
+          "Circulation is assessed",
+          "All assessment is postponed",
+          "The patient is declared cured",
+          "The old diagnosis is deleted"
+        ],
+        "answer": 0,
+        "explanation": "定位和循环评估同步进行。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-2-q20",
+        "stem": "In Case D, why retain previously found when mentioning varices?",
+        "options": [
+          "It confirms a negative endoscopy",
+          "It distinguishes historical findings from current evidence",
+          "It proves current active bleeding",
+          "It changes the organ"
+        ],
+        "answer": 1,
+        "explanation": "过去与现在证据需分开。",
+        "tag": "模拟综合"
+      }
+    ],
+    "translations": [
+      {
+        "id": "exam-2-t1",
+        "direction": "en-zh",
+        "source": "Although the ejection fraction is preserved, the symptoms still require a complete cardiac assessment.",
+        "reference": "虽然射血分数保留，这些症状仍需完整心脏评估。",
+        "terms": [
+          "symptom 症状",
+          "assessment 评估",
+          "ejection fraction 射血分数"
+        ],
+        "grammar": "although让步与still强调并存。",
+        "commonError": "以射血分数排除心衰。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t2",
+        "direction": "en-zh",
+        "source": "The opacity supports further evaluation but does not identify the pathogen responsible.",
+        "reference": "该阴影支持进一步评估，但不能确定致病病原体。",
+        "terms": [
+          "pathogen 病原体"
+        ],
+        "grammar": "but区分影像与病原学。",
+        "commonError": "把影像等同培养。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t3",
+        "direction": "en-zh",
+        "source": "The patient whose episodes have become more frequent should be reassessed promptly.",
+        "reference": "发作变得更频繁的患者应及时重新评估。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "whose从句限定患者。",
+        "commonError": "漏译变化与及时。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t4",
+        "direction": "en-zh",
+        "source": "Blood pressure, symptoms, and the clinical context are reviewed together before management is changed.",
+        "reference": "改变处理前共同评估血压、症状及临床背景。",
+        "terms": [
+          "symptom 症状",
+          "blood pressure 血压"
+        ],
+        "grammar": "before表步骤，三项并列。",
+        "commonError": "只保留单一指标。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t5",
+        "direction": "en-zh",
+        "source": "A previous diagnosis of cirrhosis does not establish the source of every subsequent bleeding episode.",
+        "reference": "既往肝硬化诊断不能确定此后每次出血的来源。",
+        "terms": [
+          "diagnosis 诊断",
+          "bleeding 出血",
+          "cirrhosis 肝硬化"
+        ],
+        "grammar": "every subsequent限定后续事件范围。",
+        "commonError": "把既往诊断当每次定位。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t6",
+        "direction": "en-zh",
+        "source": "The report describes a possible biliary cause, which remains to be assessed by imaging.",
+        "reference": "报告描述可能的胆道病因，仍需影像评估。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "which补充说明cause，possible保留推测。",
+        "commonError": "译为影像已确诊。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t7",
+        "direction": "zh-en",
+        "source": "脉搏不规则，因此申请心电图以记录节律。",
+        "reference": "The pulse was irregular, and the electrocardiogram was requested to document the rhythm.",
+        "terms": [
+          "electrocardiogram 心电图",
+          "pulse 脉搏"
+        ],
+        "grammar": "过去时与目的不定式。",
+        "commonError": "声称已有房颤确证。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t8",
+        "direction": "zh-en",
+        "source": "氧饱和度读数不能直接提供二氧化碳浓度。",
+        "reference": "An oxygen saturation reading does not directly provide the carbon dioxide concentration.",
+        "terms": [
+          "oxygen saturation 氧饱和度"
+        ],
+        "grammar": "does not directly限制检测能力。",
+        "commonError": "混淆通气与氧合。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t9",
+        "direction": "zh-en",
+        "source": "医生将吞咽困难和非意愿体重下降与烧心分别评估。",
+        "reference": "The clinician evaluates swallowing difficulty and unintentional weight loss separately from heartburn.",
+        "terms": [
+          "heartburn 烧心",
+          "weight loss 体重下降"
+        ],
+        "grammar": "separately from区分症状。",
+        "commonError": "把所有症状都归为反流。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-2-t10",
+        "direction": "zh-en",
+        "source": "译文总结中应保留该检查尚属计划的状态。",
+        "reference": "The planned test should remain a future action in the translated summary.",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "should remain表保留时间性质。",
+        "commonError": "把计划翻成完成。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exam-3",
+    "title": "模拟三 · 肾脏、血液与内分泌",
+    "minutes": 80,
+    "pointsPerQuestion": 2,
+    "questions": [
+      {
+        "id": "exam-3-q1",
+        "stem": "Which distinction is required when a patient passes small amounts frequently?",
+        "options": [
+          "Frequency versus a guaranteed infection diagnosis only",
+          "Frequency versus total urine volume",
+          "Urine versus all blood chemistry as identical",
+          "No distinction is needed"
+        ],
+        "answer": 1,
+        "explanation": "尿频与多尿不能混用。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q2",
+        "stem": "Which information best establishes a recent renal change?",
+        "options": [
+          "Only the patient's age",
+          "Only an isolated diagnosis label",
+          "A reliable recent baseline compared with the current result",
+          "Only a single elevated value"
+        ],
+        "answer": 2,
+        "explanation": "近期基线比较提供时间信息。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q3",
+        "stem": "Which urinary finding complements an estimate of filtration?",
+        "options": [
+          "Only pulse rate",
+          "Only visual acuity",
+          "Only a symptom adjective",
+          "Albuminuria"
+        ],
+        "answer": 3,
+        "explanation": "尿白蛋白提供肾损伤维度。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q4",
+        "stem": "What does hyperplasia primarily describe?",
+        "options": [
+          "Increase in cell number",
+          "Increase only in cell size",
+          "Tissue death",
+          "A recording process"
+        ],
+        "answer": 0,
+        "explanation": "增生强调数量增加。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q5",
+        "stem": "Which combination most supports iron deficiency in the supplied options?",
+        "options": [
+          "A documented high B12 level",
+          "Low ferritin with small red cells",
+          "Isolated thrombocytopenia",
+          "Only elevated reticulocytes with hemolysis markers"
+        ],
+        "answer": 1,
+        "explanation": "组合支持缺铁，但仍需查因。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q6",
+        "stem": "Which symptom is relevant to vitamin B12 deficiency assessment?",
+        "options": [
+          "Only a positive stool color name",
+          "Only a high platelet count",
+          "Paresthesia",
+          "Only a route of administration"
+        ],
+        "answer": 2,
+        "explanation": "B12缺乏可有神经表现。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q7",
+        "stem": "Which statement about ferritin is accurate?",
+        "options": [
+          "It measures only current glucose",
+          "It is identical to hemoglobin",
+          "It determines every anemia cause alone",
+          "Inflammation can influence it"
+        ],
+        "answer": 3,
+        "explanation": "铁蛋白受铁储备及炎症影响。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q8",
+        "stem": "What does a reticulocyte response concern?",
+        "options": [
+          "Immature red cell production",
+          "Only platelet destruction",
+          "Only thyroid release",
+          "Only bile storage"
+        ],
+        "answer": 0,
+        "explanation": "网织红细胞反映红细胞生成反应。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q9",
+        "stem": "Which limitation applies to glycated hemoglobin interpretation?",
+        "options": [
+          "It excludes every hypoglycemic episode",
+          "Red cell-related factors may affect it",
+          "It is always unaffected by anemia",
+          "It measures only the last minute"
+        ],
+        "answer": 1,
+        "explanation": "红细胞因素及平均性影响解释。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q10",
+        "stem": "Which pairing reflects an endocrine feedback relationship?",
+        "options": [
+          "Platelet count and urine frequency",
+          "Bile and bronchial diameter",
+          "TSH and thyroid hormones",
+          "Ferritin and stool color"
+        ],
+        "answer": 2,
+        "explanation": "TSH与甲状腺激素属于反馈轴相关指标。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q11",
+        "stem": "Case E. A patient has vomiting, reduced urine output, and a creatinine rise from a result obtained five days earlier. Medicines and possible obstruction are being reviewed. No cause has been established definitively.\n\nWhat supports an acute change?",
+        "options": [
+          "The word kidney alone",
+          "A single value without context",
+          "An invented chronicity label",
+          "The comparison across five days"
+        ],
+        "answer": 3,
+        "explanation": "可靠近期比较支持急性变化。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q12",
+        "stem": "In Case E, why is volume depletion considered?",
+        "options": [
+          "Vomiting may cause fluid losses",
+          "The cause is already proven",
+          "All creatinine rises are dehydration",
+          "Urine output measures all volume status"
+        ],
+        "answer": 0,
+        "explanation": "呕吐提供容量不足线索。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q13",
+        "stem": "In Case E, which statement is too strong?",
+        "options": [
+          "Creatinine has risen",
+          "Dehydration is the only cause",
+          "Several contributors are being assessed",
+          "Urine output is reduced"
+        ],
+        "answer": 1,
+        "explanation": "单因结论超出资料。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q14",
+        "stem": "In Case E, what could obstruction affect?",
+        "options": [
+          "Only antibody specificity",
+          "Only thyroid feedback",
+          "Urinary drainage",
+          "Only hemoglobin binding"
+        ],
+        "answer": 2,
+        "explanation": "梗阻可影响尿液排出。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q15",
+        "stem": "In Case E, what should remain in the summary?",
+        "options": [
+          "Only a definitive mechanism",
+          "Only a generic kidney label",
+          "Only an unrelated normal value",
+          "The change, timing, and uncertainty of cause"
+        ],
+        "answer": 3,
+        "explanation": "时间与病因未定均需保留。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q16",
+        "stem": "Case F. A patient using insulin misses a meal and becomes sweaty and confused. Glucose is low during the symptoms, which improve after correction. The clinician reviews daily patterns rather than relying solely on a favorable long-term average.\n\nWhich temporal relation is documented?",
+        "options": [
+          "Low glucose was measured during symptoms",
+          "Low glucose occurred only years earlier",
+          "No glucose was measured",
+          "Symptoms preceded the first insulin prescription by decades"
+        ],
+        "answer": 0,
+        "explanation": "测量与症状同时发生。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q17",
+        "stem": "In Case F, what improves after correction?",
+        "options": [
+          "A proven unrelated infection",
+          "The symptoms",
+          "Every chronic complication",
+          "All future risk"
+        ],
+        "answer": 1,
+        "explanation": "只明确症状改善。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q18",
+        "stem": "In Case F, why is the long-term average insufficient?",
+        "options": [
+          "It measures only meal frequency",
+          "It proves every daily value is normal",
+          "It can conceal brief low-glucose episodes",
+          "It is always meaningless"
+        ],
+        "answer": 2,
+        "explanation": "平均值不能代表每次波动。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q19",
+        "stem": "In Case F, what should be reviewed to prevent recurrence?",
+        "options": [
+          "Only the average value",
+          "Only the brand name",
+          "Only the clinic address",
+          "Actual dosing, meals, activity, and relevant clinical changes"
+        ],
+        "answer": 3,
+        "explanation": "具体情境影响风险。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-3-q20",
+        "stem": "In Case F, which term describes the documented low glucose state?",
+        "options": [
+          "Hypoglycemia",
+          "Hyperglycemia",
+          "Hypercalcemia",
+          "Hypoxemia"
+        ],
+        "answer": 0,
+        "explanation": "低血糖为hypoglycemia。",
+        "tag": "模拟综合"
+      }
+    ],
+    "translations": [
+      {
+        "id": "exam-3-t1",
+        "direction": "en-zh",
+        "source": "The current creatinine should be compared with previous values before the duration of dysfunction is assigned.",
+        "reference": "确定功能异常持续时间前，应将当前肌酐与既往数值比较。",
+        "terms": [
+          "sign 体征",
+          "duration 持续时间",
+          "creatinine 肌酐"
+        ],
+        "grammar": "before从句与比较参照。",
+        "commonError": "由单次异常判定慢性。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t2",
+        "direction": "en-zh",
+        "source": "Protein loss and a filtration estimate provide related but different information about the kidney.",
+        "reference": "蛋白丢失与滤过率估计提供相关但不同的肾脏信息。",
+        "terms": [
+          "kidney 肾脏",
+          "filtration 滤过"
+        ],
+        "grammar": "related but different保留维度区别。",
+        "commonError": "把两者当同一个指标。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t3",
+        "direction": "en-zh",
+        "source": "Although ferritin reflects iron stores, inflammation can complicate its interpretation.",
+        "reference": "虽然铁蛋白反映铁储备，炎症可使其解释复杂化。",
+        "terms": [
+          "inflammation 炎症",
+          "ferritin 铁蛋白"
+        ],
+        "grammar": "although表达让步。",
+        "commonError": "把铁蛋白视作不受影响的绝对储备量。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t4",
+        "direction": "en-zh",
+        "source": "The patient with macrocytosis and sensory symptoms requires assessment that includes vitamin B12 status.",
+        "reference": "伴大细胞性改变及感觉症状的患者需要包括B12状态在内的评估。",
+        "terms": [
+          "symptom 症状",
+          "assessment 评估",
+          "vitamin B12 维生素B12"
+        ],
+        "grammar": "with与that从句分别修饰患者及评估。",
+        "commonError": "遗漏神经症状。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t5",
+        "direction": "en-zh",
+        "source": "The laboratory pattern supports hemolysis without determining the underlying mechanism by itself.",
+        "reference": "该实验室组合支持溶血，但其本身不能确定基础机制。",
+        "terms": [
+          "hemolysis 溶血"
+        ],
+        "grammar": "without与by itself限定充分性。",
+        "commonError": "将过程与病因合并。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t6",
+        "direction": "en-zh",
+        "source": "A favorable average glucose exposure does not exclude episodes that occur briefly between routine measurements.",
+        "reference": "理想平均血糖暴露不能排除常规测量间发生的短暂发作。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "that从句限定episodes。",
+        "commonError": "用平均值否定短暂异常。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t7",
+        "direction": "zh-en",
+        "source": "医生在将异常描述为慢性之前，复核其是否持续存在。",
+        "reference": "The clinician reviews whether the abnormality has persisted before describing it as chronic.",
+        "terms": [
+          "chronic 慢性的"
+        ],
+        "grammar": "whether与before分别表达待核实及先后。",
+        "commonError": "将待核实状态写成事实。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t8",
+        "direction": "zh-en",
+        "source": "钾浓度必须结合临床状况及标本相关错误的可能性解释。",
+        "reference": "Potassium concentration must be interpreted alongside the clinical condition and the possibility of a sample-related error.",
+        "terms": [
+          "potassium 钾"
+        ],
+        "grammar": "alongside连接两项背景。",
+        "commonError": "忽略紧迫性或直接把异常当误差。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t9",
+        "direction": "zh-en",
+        "source": "纠正后症状改善，但仍需复核发生情境以减少复发。",
+        "reference": "The symptoms improved after correction, but the circumstances still require review to reduce recurrence.",
+        "terms": [
+          "symptom 症状"
+        ],
+        "grammar": "but与目的不定式保留逻辑。",
+        "commonError": "把改善当所有风险消除。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-3-t10",
+        "direction": "zh-en",
+        "source": "应将刺激激素及下游反应作为相关的一对共同解释。",
+        "reference": "The stimulating hormone and the downstream response should be interpreted as a related pair.",
+        "terms": [
+          "response 反应",
+          "hormone 激素"
+        ],
+        "grammar": "as a related pair为补充说明。",
+        "commonError": "只看上游单值。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exam-4",
+    "title": "模拟四 · 综合交接与学术表达",
+    "minutes": 90,
+    "pointsPerQuestion": 2,
+    "questions": [
+      {
+        "id": "exam-4-q1",
+        "stem": "Which wording best preserves a noncausal observational result?",
+        "options": [
+          "The exposure was associated with the outcome",
+          "The exposure necessarily caused the outcome",
+          "Every exposed participant developed the outcome",
+          "All confounding was eliminated by definition"
+        ],
+        "answer": 0,
+        "explanation": "associated with表达关联而非证明因果。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q2",
+        "stem": "What does residual confounding cannot be excluded mean?",
+        "options": [
+          "The result must be discarded as false",
+          "A possible alternative explanation remains",
+          "No confounding is possible",
+          "Causality is proven"
+        ],
+        "answer": 1,
+        "explanation": "不能排除保留可能，非结果必假。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q3",
+        "stem": "Which distinction separates cancer stage from grade?",
+        "options": [
+          "Both mean treatment dose",
+          "Age versus symptom duration",
+          "Extent versus microscopic characteristics",
+          "Both are identical measures of size"
+        ],
+        "answer": 2,
+        "explanation": "分期与分级回答不同问题。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q4",
+        "stem": "Which information is crucial when deficits are discovered on waking?",
+        "options": [
+          "Only the time of breakfast",
+          "Only the hospital arrival month",
+          "An assumption that onset equals waking",
+          "Last known well as distinct from discovery time"
+        ],
+        "answer": 3,
+        "explanation": "最后正常时间与发现时间分开。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q5",
+        "stem": "Which claim about a positive screening test is safest?",
+        "options": [
+          "Its meaning depends on test properties and clinical context",
+          "It always proves disease",
+          "Specificity is the person's exact disease probability",
+          "Pretest probability never matters"
+        ],
+        "answer": 0,
+        "explanation": "筛查阳性需结合性能与背景。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q6",
+        "stem": "Which factor can change drug exposure without changing the prescribed dose?",
+        "options": [
+          "Only the translated drug name",
+          "Reduced clearance",
+          "Only a different font",
+          "Only the number of visits"
+        ],
+        "answer": 1,
+        "explanation": "清除下降可增加暴露。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q7",
+        "stem": "Which statement about anticoagulant monitoring is appropriate?",
+        "options": [
+          "A relative's schedule always applies",
+          "Bleeding symptoms never matter",
+          "Requirements depend on the specific drug",
+          "Every drug uses one universal target"
+        ],
+        "answer": 2,
+        "explanation": "监测需区分药物。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q8",
+        "stem": "What should an allergy record include?",
+        "options": [
+          "Only the word allergy",
+          "Only an assumed mechanism",
+          "Only a prohibition of every medicine",
+          "Substance, timing, manifestations, and management"
+        ],
+        "answer": 3,
+        "explanation": "详细记录有助于判断反应。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q9",
+        "stem": "Which phrase distinguishes a plan from a completed action?",
+        "options": [
+          "The test is scheduled but has not been performed",
+          "The test has confirmed the diagnosis",
+          "The result was negative",
+          "The image demonstrated a lesion"
+        ],
+        "answer": 0,
+        "explanation": "明确尚未执行。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q10",
+        "stem": "Which summary best handles absent information?",
+        "options": [
+          "All missing information is normal",
+          "The record does not state whether fever was present",
+          "Fever was definitely absent because unmentioned",
+          "Fever was definitely present because suspected"
+        ],
+        "answer": 1,
+        "explanation": "未记录不等于阴性。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q11",
+        "stem": "Case G. A patient with heart failure and kidney disease reports less breathlessness after treatment, but now feels dizzy on standing. Blood pressure, kidney function, and electrolytes are being reviewed. The clinician has not yet changed the dose.\n\nWhich summary captures both sides?",
+        "options": [
+          "Treatment provided no benefit at all",
+          "The dose has already been reduced",
+          "Symptoms improved, but a new concern requires review",
+          "Treatment was wholly successful with no concern"
+        ],
+        "answer": 2,
+        "explanation": "既有改善又有新问题。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q12",
+        "stem": "In Case G, what is still pending?",
+        "options": [
+          "The report of dizziness",
+          "The presence of chronic conditions",
+          "The report of less breathlessness",
+          "The decision about changing the dose"
+        ],
+        "answer": 3,
+        "explanation": "尚未调整剂量。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q13",
+        "stem": "In Case G, why assess multiple measures?",
+        "options": [
+          "Benefit and harm cannot be judged from one symptom alone",
+          "A single symptom answers every question",
+          "Only weight matters",
+          "Electrolytes are unrelated to all treatment"
+        ],
+        "answer": 0,
+        "explanation": "整体评估需多个维度。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q14",
+        "stem": "In Case G, what does on standing modify?",
+        "options": [
+          "The date of discharge",
+          "The occurrence of dizziness",
+          "The original kidney diagnosis",
+          "The timing of every medicine"
+        ],
+        "answer": 1,
+        "explanation": "体位限定头晕发生。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q15",
+        "stem": "In Case G, which invented statement should be rejected?",
+        "options": [
+          "Breathlessness has improved",
+          "Dizziness is present on standing",
+          "The dose was reduced by a specified amount",
+          "Further review is occurring"
+        ],
+        "answer": 2,
+        "explanation": "未提供任何剂量调整。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q16",
+        "stem": "Case H. A cohort report finds an adjusted association between sleep symptoms and a later cardiovascular outcome. The authors note residual confounding and measurement limitations. A clinician asks whether the result proves that treating the symptom will prevent disease. The report contains no treatment trial.\n\nWhat study design is described?",
+        "options": [
+          "A randomized treatment trial",
+          "A laboratory drug dose trial",
+          "A pathology case series only",
+          "An observational cohort"
+        ],
+        "answer": 3,
+        "explanation": "报告为观察性队列。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q17",
+        "stem": "In Case H, what inference exceeds the report?",
+        "options": [
+          "Treating the symptom is proven to prevent disease",
+          "An association was observed",
+          "Limitations remain",
+          "A later outcome was studied"
+        ],
+        "answer": 0,
+        "explanation": "观察关联不能证明治疗获益。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q18",
+        "stem": "In Case H, why retain measurement limitations?",
+        "options": [
+          "They make the design randomized",
+          "They affect interpretation of the reported association",
+          "They are only stylistic decorations",
+          "They prove all results are false"
+        ],
+        "answer": 1,
+        "explanation": "测量局限影响结果解释。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q19",
+        "stem": "In Case H, what is not included?",
+        "options": [
+          "A cardiovascular outcome",
+          "An author limitation statement",
+          "A treatment trial",
+          "Statistical adjustment"
+        ],
+        "answer": 2,
+        "explanation": "原文明确无治疗试验。",
+        "tag": "模拟综合"
+      },
+      {
+        "id": "exam-4-q20",
+        "stem": "In Case H, which response is most defensible?",
+        "options": [
+          "The treatment is certainly preventive",
+          "All uncertainty has vanished",
+          "Every sleep symptom is the same disease",
+          "The result motivates further study but does not establish treatment efficacy"
+        ],
+        "answer": 3,
+        "explanation": "应区分研究启发与治疗确证。",
+        "tag": "模拟综合"
+      }
+    ],
+    "translations": [
+      {
+        "id": "exam-4-t1",
+        "direction": "en-zh",
+        "source": "Although symptoms improved after treatment, the new dizziness requires assessment before the dose is changed.",
+        "reference": "虽然治疗后症状改善，新出现的头晕仍需在调整剂量前评估。",
+        "terms": [
+          "symptom 症状",
+          "assessment 评估",
+          "dose 剂量"
+        ],
+        "grammar": "although让步与before先后并存。",
+        "commonError": "写成已调整剂量。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t2",
+        "direction": "en-zh",
+        "source": "The result, which was obtained in an observational cohort, should not be presented as proof of treatment efficacy.",
+        "reference": "该结果来自观察性队列，不应被表述为治疗有效的证明。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "which补充设计，should not限制主张。",
+        "commonError": "将关联升级为治疗效应。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t3",
+        "direction": "en-zh",
+        "source": "Participants whose measurements were incomplete may differ from those included in the final analysis.",
+        "reference": "测量不完整的参与者可能不同于纳入最终分析者。",
+        "terms": [
+          "analysis 分析"
+        ],
+        "grammar": "whose与those替代群体，may保留可能。",
+        "commonError": "漏译可能或人群差异。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t4",
+        "direction": "en-zh",
+        "source": "A high test sensitivity does not mean that every positive result establishes the diagnosis in every clinical setting.",
+        "reference": "检查敏感度高不意味着在任何临床背景下每个阳性结果都能确诊。",
+        "terms": [
+          "diagnosis 诊断",
+          "sensitivity 敏感度"
+        ],
+        "grammar": "not mean与两个every限定范围。",
+        "commonError": "混淆敏感度与阳性后患病概率。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t5",
+        "direction": "en-zh",
+        "source": "The handover identifies the tests that remain pending and the clinician responsible for reviewing them.",
+        "reference": "交接明确尚待回报的检查及负责复核的医生。",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "that限定tests，them指检查结果。",
+        "commonError": "遗漏责任主体。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t6",
+        "direction": "en-zh",
+        "source": "A possible adverse effect should be documented without assuming a mechanism that has not been established.",
+        "reference": "应记录可能的不良作用，同时避免假定尚未确立的机制。",
+        "terms": [
+          "adverse effect 不良作用"
+        ],
+        "grammar": "without及that限定未确证机制。",
+        "commonError": "把怀疑机制当事实。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t7",
+        "direction": "zh-en",
+        "source": "讨论患者顾虑与实际障碍后达成当前计划。",
+        "reference": "The current plan was agreed after the patient's concerns and practical barriers had been discussed.",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "过去完成时体现讨论先行。",
+        "commonError": "省略患者意见。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t8",
+        "direction": "zh-en",
+        "source": "取样组织中的诊断已确认，而疾病范围仍需评估。",
+        "reference": "The diagnosis is confirmed in the sampled tissue, while the extent of disease still requires assessment.",
+        "terms": [
+          "diagnosis 诊断",
+          "tissue 组织",
+          "assessment 评估"
+        ],
+        "grammar": "while对比确证与未定范围。",
+        "commonError": "把局部确诊等同全身分期。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t9",
+        "direction": "zh-en",
+        "source": "总结应保留时间顺序、不确定性以及观察发现与推断原因的区别。",
+        "reference": "The summary should preserve temporal order, uncertainty, and the distinction between observed findings and inferred causes.",
+        "terms": [
+          "uncertainty 不确定性",
+          "oral 口服的"
+        ],
+        "grammar": "三个并列对象及between结构。",
+        "commonError": "只保留疾病名。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      },
+      {
+        "id": "exam-4-t10",
+        "direction": "zh-en",
+        "source": "需要未来研究确定改变暴露是否改善临床结局。",
+        "reference": "Future studies are needed to determine whether changing the exposure improves clinical outcomes.",
+        "terms": [
+          "clinical context 临床背景"
+        ],
+        "grammar": "whether保留待验证问题。",
+        "commonError": "译成改变暴露已获证实有效。",
+        "rubric": [
+          "医学对象与主要动作准确2分",
+          "限定词、否定及逻辑关系完整2分",
+          "句法通顺、术语准确2分；合理同义译文可得分"
+        ]
+      }
+    ]
+  }
+]

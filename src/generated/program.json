@@ -1,0 +1,208 @@
+{
+  "title": "Internal Medicine English — 90-Day Study Program",
+  "totalDays": 90,
+  "teachingWeeks": 12,
+  "bufferDays": 6,
+  "corePages": 527,
+  "sampleDays": [
+    1,
+    22,
+    32
+  ],
+  "weeks": [
+    {
+      "title": "构词基础与整体身体术语",
+      "goal": "Ch.1全部＋Ch.2前段",
+      "estimatedPages": 48,
+      "navigation": "Ch.1导航23–54；Ch.2暂分55–70",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "title": "整体身体术语与后缀",
+      "goal": "Ch.2后段＋Ch.3前段",
+      "estimatedPages": 48,
+      "navigation": "Ch.2暂分71–94；Ch.3暂分95–118",
+      "days": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "后缀与前缀",
+      "goal": "Ch.3后段＋Ch.4全部",
+      "estimatedPages": 42,
+      "navigation": "Ch.3暂分119–128；Ch.4导航129–160",
+      "days": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "title": "心血管系统上半程",
+      "goal": "Ch.11前段",
+      "estimatedPages": 42,
+      "navigation": "Ch.11暂分419–460",
+      "days": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "title": "心血管巩固与呼吸入门",
+      "goal": "Ch.11后段＋Ch.12前段",
+      "estimatedPages": 46,
+      "navigation": "Ch.11暂分461–478；Ch.12暂分479–506",
+      "days": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "title": "呼吸巩固与消化入门",
+      "goal": "Ch.12后段＋Ch.5前段",
+      "estimatedPages": 48,
+      "navigation": "Ch.12暂分507–522；Ch.5暂分161–192",
+      "days": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "title": "消化系统与附加后缀",
+      "goal": "Ch.5后段＋Ch.6全部",
+      "estimatedPages": 44,
+      "navigation": "Ch.5暂分193–208；Ch.6导航209–236",
+      "days": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "title": "泌尿系统",
+      "goal": "Ch.7全部",
+      "estimatedPages": 42,
+      "navigation": "Ch.7导航237–278",
+      "days": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "title": "血液系统",
+      "goal": "Ch.13全部",
+      "estimatedPages": 44,
+      "navigation": "Ch.13导航523–566",
+      "days": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "title": "淋巴免疫与内分泌入门",
+      "goal": "Ch.14全部＋Ch.18前段",
+      "estimatedPages": 46,
+      "navigation": "Ch.14导航567–598；Ch.18暂分769–782",
+      "days": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "title": "内分泌巩固与药理入门",
+      "goal": "Ch.18后段＋Ch.21前段",
+      "estimatedPages": 46,
+      "navigation": "Ch.18暂分783–818；Ch.21暂分906–915",
+      "days": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "title": "药理学与综合复习",
+      "goal": "Ch.21后段＋跨系统回顾",
+      "estimatedPages": 31,
+      "navigation": "Ch.21暂分916–946；其余时间综合回顾",
+      "days": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "title": "缓冲与考前整理",
+      "goal": "补进度、错题回读、选学",
+      "estimatedPages": 0,
+      "navigation": "Day 85–88补缺；Day 89综合自测；Day 90回顾",
+      "days": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ]
+    }
+  ]
+}

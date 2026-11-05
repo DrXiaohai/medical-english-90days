@@ -1,0 +1,456 @@
+﻿id,english,chinese,pos,system,morphology,example,translation,difficulty
+cardi-o,cardi/o,心,combining form,基础,cardi（词根）+ o（连接元音）,Cardiology is the study of the heart.,心脏病学研究心脏。,1
+gastr-o,gastr/o,胃,combining form,基础,gastr + o,Gastritis means inflammation of the stomach.,Gastritis 指胃的炎症。,1
+nephr-o,nephr/o,肾,combining form,基础,nephr + o,Nephrology focuses on kidney disease.,肾脏病学关注肾脏疾病。,1
+hepat-o,hepat/o,肝,combining form,基础,hepat + o,Hepatitis involves inflammation of the liver.,肝炎涉及肝脏的炎症。,1
+-itis,-itis,炎症,suffix,基础,后缀,Arthritis affects the joints.,关节炎累及关节。,1
+-logy,-logy,学科；研究,suffix,基础,后缀,Biology is the study of life.,生物学研究生命。,1
+hyper-,hyper-,过高；过多,prefix,基础,前缀,Hyperglycemia means high blood glucose.,高血糖指血糖水平升高。,1
+hypo-,hypo-,过低；不足,prefix,基础,前缀,Hypoglycemia may cause sweating.,低血糖可能引起出汗。,1
+tachy-,tachy-,快,prefix,基础,前缀,Tachycardia means a fast heart rate.,心动过速指心率过快。,1
+brady-,brady-,慢,prefix,基础,前缀,Bradycardia means a slow heart rate.,心动过缓指心率过慢。,1
+-emia,-emia,血液状态,suffix,基础,后缀,Anemia is a clinical condition.,贫血是一种临床状态。,1
+-pathy,-pathy,疾病,suffix,基础,后缀,Neuropathy affects nerves.,神经病变累及神经。,1
+symptom,symptom,症状,noun,基础,不强行拆词,Pain is a symptom.,疼痛是一种症状。,1
+sign,sign,体征,noun,基础,不强行拆词,A rash can be a clinical sign.,皮疹可是一种临床体征。,1
+diagnosis,diagnosis,诊断,noun,基础,复数 diagnoses,The diagnosis remains uncertain.,诊断仍不确定。,1
+term-word-root,word root,词根,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The word root carries the central meaning.,词根承载核心含义。,1
+term-combining-vowel,combining vowel,连接元音,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A combining vowel can connect two word roots.,连接元音可连接两个词根。,1
+term-combining-form,combining form,结合形式,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A combining form includes a root and a vowel.,结合形式包含词根和元音。,1
+term-prefix,prefix,前缀,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A prefix appears before the root.,前缀位于词根之前。,1
+term-suffix,suffix,后缀,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A suffix often indicates a condition or procedure.,后缀常表示状态或操作。,1
+term-neur-o,neur/o,神经,combining form,构词基础,neur + o,Neur/o refers to a nerve in many medical terms.,许多医学术语中的neur/o指神经。,1
+term-oste-o,oste/o,骨,combining form,构词基础,oste + o,Oste/o helps identify terms related to bone.,oste/o有助于识别与骨相关的术语。,1
+term-arthr-o,arthr/o,关节,combining form,构词基础,arthr + o,Arthr/o occurs in terms about joints.,arthr/o见于关节相关术语。,1
+term-dermat-o,dermat/o,皮肤,combining form,构词基础,dermat + o,Dermatology deals with conditions of the skin.,皮肤病学研究皮肤相关疾病。,1
+term-hemat-o,hemat/o,血液,combining form,构词基础,hemat + o,Hematology includes the study of blood disorders.,血液病学包括对血液疾病的研究。,1
+term-cyt-o,cyt/o,细胞,combining form,构词基础,cyt + o,Cytology examines cells.,细胞学检查细胞。,1
+term-plural,plural,复数形式,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The plural of diagnosis is diagnoses.,diagnosis的复数为diagnoses。,1
+term-criterion,criterion,标准；准则,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,One criterion alone may be insufficient.,单一标准可能不够充分。,1
+term-criteria,criteria,标准的复数,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The criteria must be stated clearly.,必须清楚说明各项标准。,1
+term-nucleus,nucleus,细胞核,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The nucleus contains genetic material.,细胞核含有遗传物质。,1
+term-nuclei,nuclei,细胞核的复数,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Several nuclei are visible in this image.,这幅图中可见多个细胞核。,1
+term-vertebra,vertebra,椎骨,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A vertebra is a bone of the spine.,椎骨是脊柱的一块骨。,1
+term-vertebrae,vertebrae,椎骨的复数,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The vertebrae protect the spinal cord.,椎骨保护脊髓。,1
+term-analysis,analysis,分析,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The analysis requires a suitable sample.,分析需要合适的标本。,1
+term-analyses,analyses,分析的复数,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The two analyses used different methods.,两项分析采用不同方法。,1
+bronchus,bronchus,支气管,noun,呼吸,bronch/o；复数 bronchi,Air passes through the bronchi.,空气通过支气管。,2
+alveolus,alveolus,肺泡,noun,呼吸,复数 alveoli,Gas exchange occurs in the alveoli.,气体交换发生在肺泡。,2
+term-cell,cell,细胞,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Cells form the basic units of living tissue.,细胞构成活组织的基本单位。,1
+term-tissue,tissue,组织,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The specimen contains inflamed tissue.,标本含有炎症组织。,1
+term-organ,organ,器官,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The liver is an organ with several functions.,肝脏是具有多种功能的器官。,1
+term-system,system,系统,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Several organs work together within a system.,多个器官在一个系统内共同工作。,1
+term-epithelium,epithelium,上皮,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The epithelium lines many body surfaces.,上皮覆盖许多身体表面。,1
+term-connective-tissue,connective tissue,结缔组织,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Connective tissue supports surrounding structures.,结缔组织支持周围结构。,1
+term-muscle,muscle,肌肉,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Muscle contraction produces movement.,肌肉收缩产生运动。,1
+term-nerve,nerve,神经,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A nerve carries electrical signals.,神经传递电信号。,1
+term-membrane,membrane,膜,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The membrane separates two compartments.,这层膜分隔两个腔室。,1
+term-inflammation,inflammation,炎症,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Inflammation can occur without infection.,没有感染也可能出现炎症。,1
+term-infection,infection,感染,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,An infection involves an invading organism.,感染涉及侵入的病原生物。,1
+term-lesion,lesion,病变,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The lesion requires further characterization.,该病变需要进一步明确性质。,1
+term-biopsy,biopsy,活组织检查,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A biopsy provides tissue for examination.,活检提供组织以供检查。,1
+term-pathology,pathology,病理学,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Pathology helps characterize disease in tissue.,病理学有助于明确组织病变性质。,1
+term-anterior,anterior,前侧的,adjective,构词基础,按完整术语学习；不强行拆分,The sternum lies anterior to the heart.,胸骨位于心脏前方。,1
+term-posterior,posterior,后侧的,adjective,构词基础,按完整术语学习；不强行拆分,The spine lies posterior to the heart.,脊柱位于心脏后方。,1
+term-superior,superior,上方的,adjective,构词基础,按完整术语学习；不强行拆分,The chest is superior to the abdomen.,胸部位于腹部上方。,1
+term-inferior,inferior,下方的,adjective,构词基础,按完整术语学习；不强行拆分,The bladder is inferior to the kidneys.,膀胱位于肾脏下方。,1
+term-medial,medial,靠近正中线的,adjective,构词基础,按完整术语学习；不强行拆分,The nose is medial to the eyes.,鼻位于双眼内侧。,1
+term-lateral,lateral,远离正中线的,adjective,构词基础,按完整术语学习；不强行拆分,The ears are lateral to the eyes.,耳位于双眼外侧。,1
+term-proximal,proximal,近端的,adjective,构词基础,按完整术语学习；不强行拆分,The elbow is proximal to the wrist.,肘部位于腕部近端。,1
+term-distal,distal,远端的,adjective,构词基础,按完整术语学习；不强行拆分,The fingers are distal to the elbow.,手指位于肘部远端。,1
+term-superficial,superficial,浅表的,adjective,构词基础,按完整术语学习；不强行拆分,A superficial wound involves the surface layers.,浅表伤口累及表层。,1
+term-deep,deep,深部的,adjective,构词基础,按完整术语学习；不强行拆分,Deep tissue may be affected despite a small opening.,即使开口很小也可能累及深部组织。,1
+term-supine,supine,仰卧的,adjective,构词基础,按完整术语学习；不强行拆分,The patient rests in a supine position.,患者取仰卧位休息。,1
+term-prone,prone,俯卧的,adjective,构词基础,按完整术语学习；不强行拆分,The patient is placed in a prone position.,患者被置于俯卧位。,1
+term-thoracic-cavity,thoracic cavity,胸腔,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The lungs lie within the thoracic cavity.,肺位于胸腔内。,1
+term-abdominal-cavity,abdominal cavity,腹腔,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The liver occupies part of the abdominal cavity.,肝脏占据腹腔的一部分。,1
+term-pelvic-cavity,pelvic cavity,盆腔,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The urinary bladder lies in the pelvic cavity.,膀胱位于盆腔内。,1
+term-diaphragm,diaphragm,膈肌,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The diaphragm separates the chest from the abdomen.,膈肌分隔胸部和腹部。,1
+term-peritoneum,peritoneum,腹膜,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The peritoneum lines the abdominal cavity.,腹膜衬于腹腔内壁。,1
+term-pleura,pleura,胸膜,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The pleura surrounds the lungs.,胸膜包绕肺。,1
+term-pericardium,pericardium,心包,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The pericardium encloses the heart.,心包包绕心脏。,1
+term-quadrant,quadrant,象限,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The abdomen can be described using four quadrants.,腹部可按四个象限描述。,1
+term-umbilical,umbilical,脐部的,adjective,构词基础,按完整术语学习；不强行拆分,The pain initially occurs in the umbilical region.,疼痛最初出现在脐区。,1
+term-bilateral,bilateral,双侧的,adjective,构词基础,按完整术语学习；不强行拆分,Bilateral swelling affects both legs.,双侧肿胀累及两条腿。,1
+term-unilateral,unilateral,单侧的,adjective,构词基础,按完整术语学习；不强行拆分,The weakness is unilateral.,无力为单侧。,1
+term-history,history,病史,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A detailed history clarifies the sequence of symptoms.,详细病史有助于明确症状发生顺序。,1
+term-assessment,assessment,评估,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The assessment includes symptoms and examination findings.,评估包括症状及查体发现。,1
+term-uncertainty,uncertainty,不确定性,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Uncertainty should remain visible in the translation.,译文中应保留不确定性。,1
+term-evidence,evidence,证据,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Evidence should support the conclusion.,证据应支持结论。,1
+term-onset,onset,起病；发生,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The onset of pain was sudden.,疼痛突然发生。,1
+term-duration,duration,持续时间,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The duration of the cough is two weeks.,咳嗽已持续两周。,1
+term-severity,severity,严重程度,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Severity cannot be judged from duration alone.,不能仅凭持续时间判断严重程度。,1
+term-radiation,radiation,放射；放射痛,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The patient describes radiation to the left arm.,患者描述疼痛放射至左臂。,1
+term-relief,relief,缓解,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Rest provides partial relief.,休息带来部分缓解。,1
+term-exacerbation,exacerbation,加重,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,An exacerbation is a worsening of symptoms.,exacerbation表示症状加重。,1
+term-intermittent,intermittent,间歇性的,adjective,构词基础,按完整术语学习；不强行拆分,The discomfort is intermittent.,不适呈间歇性。,1
+term-persistent,persistent,持续的,adjective,构词基础,按完整术语学习；不强行拆分,Persistent symptoms require reassessment.,持续症状需要重新评估。,1
+term-acute,acute,急性的,adjective,构词基础,按完整术语学习；不强行拆分,An acute illness develops over a relatively short period.,急性疾病在相对短的时间内发生。,1
+term-chronic,chronic,慢性的,adjective,构词基础,按完整术语学习；不强行拆分,A chronic condition persists over time.,慢性疾病持续存在。,1
+term-recurrent,recurrent,复发的,adjective,构词基础,按完整术语学习；不强行拆分,Recurrent episodes occur after periods of improvement.,复发性发作在好转一段时间后再次出现。,1
+term-follow-up,follow-up,随访,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Follow-up is arranged after discharge.,出院后安排随访。,1
+term-negation,negation,否定,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Negation changes the meaning of a clinical statement.,否定改变临床陈述的含义。,1
+term-benign,benign,良性的,adjective,构词基础,按完整术语学习；不强行拆分,A benign tumor can still cause local symptoms.,良性肿瘤仍可引起局部症状。,1
+term-malignant,malignant,恶性的,adjective,构词基础,按完整术语学习；不强行拆分,A malignant tumor may invade nearby tissue.,恶性肿瘤可能侵入邻近组织。,1
+term-differential-diagnosis,differential diagnosis,鉴别诊断,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The differential diagnosis includes several possibilities.,鉴别诊断包含多种可能。,1
+term-ectomy,-ectomy,切除术,suffix,构词基础,表示切除,Appendectomy means removal of the appendix.,appendectomy指阑尾切除术。,1
+term-otomy,-otomy,切开术,suffix,构词基础,表示切开,A tracheotomy creates an incision into the trachea.,气管切开术在气管上形成切口。,1
+term-ostomy,-ostomy,造口术,suffix,构词基础,表示造口,A colostomy creates an opening from the colon.,结肠造口术建立结肠开口。,1
+term-procedure,procedure,操作；诊疗程序,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The procedure is explained before consent is obtained.,取得同意前需解释操作。,1
+term-consent,consent,知情同意,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Consent requires information and voluntary agreement.,知情同意需要充分信息和自愿同意。,1
+term-indication,indication,适应证,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The indication explains why a test is requested.,适应证说明为何申请检查。,1
+term-contraindication,contraindication,禁忌证,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,A contraindication must be checked before treatment.,治疗前必须检查禁忌证。,1
+term-adverse-effect,adverse effect,不良作用,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,An adverse effect may occur despite correct use.,即使正确使用也可能发生不良作用。,1
+term-scopy,-scopy,内镜检查,suffix,构词基础,表示观察检查,Endoscopy allows visual inspection of an internal surface.,内镜检查可直视内部表面。,1
+term-graphy,-graphy,记录或成像过程,suffix,构词基础,表示过程,Angiography produces images of blood vessels.,血管造影产生血管影像。,1
+term-gram,-gram,记录图,suffix,构词基础,表示记录结果,An electrocardiogram is a record of electrical activity.,心电图是电活动的记录。,1
+electrocardiogram,electrocardiogram,心电图,noun,心血管,electr/o + cardi/o + -gram；ECG = electrocardiogram,An electrocardiogram records cardiac electrical activity.,心电图记录心脏电活动。,2
+term-megaly,-megaly,增大,suffix,构词基础,表示增大,Hepatomegaly means enlargement of the liver.,hepatomegaly指肝脏增大。,1
+term-algia,-algia,疼痛,suffix,构词基础,表示疼痛,Neuralgia refers to pain along a nerve.,neuralgia指沿神经分布的疼痛。,1
+term-penia,-penia,减少,suffix,构词基础,表示减少,Leukopenia means a reduced white blood cell count.,leukopenia指白细胞计数减少。,1
+term-cytosis,-cytosis,细胞增多,suffix,构词基础,表示细胞增多,Leukocytosis indicates an increased white blood cell count.,leukocytosis表示白细胞计数增多。,1
+term-osis,-osis,状态；常指异常状态,suffix,构词基础,不一定表示特定病因,Cyanosis describes a bluish discoloration.,cyanosis描述青紫色改变。,1
+term-oma,-oma,肿块；肿瘤,suffix,构词基础,并非所有-oma都表示恶性,A lipoma is usually a benign fatty tumor.,脂肪瘤通常是良性脂肪组织肿瘤。,1
+term-histology,histology,组织学,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Histology examines the organization of tissue.,组织学检查组织的结构。,1
+term-cytology,cytology,细胞学,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Cytology focuses on individual cells or cell groups.,细胞学关注单个细胞或细胞群。,1
+term-necrosis,necrosis,坏死,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Necrosis indicates tissue death.,坏死表示组织死亡。,1
+term-fibrosis,fibrosis,纤维化,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Fibrosis can alter the architecture of an organ.,纤维化可改变器官结构。,1
+term-edema,edema,水肿,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Edema is swelling caused by excess interstitial fluid.,水肿是组织间液过多引起的肿胀。,1
+term-atrophy,atrophy,萎缩,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Muscle atrophy can follow prolonged disuse.,长期废用可导致肌肉萎缩。,1
+term-hypertrophy,hypertrophy,肥大,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Hypertrophy involves an increase in cell size.,肥大涉及细胞体积增大。,1
+term-hyperplasia,hyperplasia,增生,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Hyperplasia involves an increase in cell number.,增生涉及细胞数量增加。,1
+term-dysplasia,dysplasia,异型增生；发育异常,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The meaning of dysplasia depends on the tissue and context.,dysplasia的含义取决于组织与语境。,1
+term-uria,-uria,尿液情况,suffix,构词基础,表示尿液相关情况,Hematuria means blood in the urine.,hematuria指尿中有血。,1
+term-rrhea,-rrhea,流出,suffix,构词基础,表示流出,Diarrhea involves frequent loose or watery stools.,腹泻涉及频繁稀便或水样便。,1
+term-rrhage,-rrhage,大量流出；出血,suffix,构词基础,表示大量流出,Hemorrhage refers to bleeding.,hemorrhage指出血。,1
+term-poly,poly-,多,prefix,构词基础,数量多,Polyuria means an increased volume of urine.,polyuria指尿量增多。,1
+term-oligo,oligo-,少,prefix,构词基础,数量少,Oliguria describes reduced urine output.,oliguria描述尿量减少。,1
+term-a,a-,无；不,prefix,构词基础,部分词中变为an-,An a- prefix can express absence.,前缀a-可表达缺如。,1
+term-dys,dys-,困难；异常,prefix,构词基础,异常或困难,Dysuria describes painful or difficult urination.,dysuria描述疼痛或困难的排尿。,1
+blood-pressure,blood pressure,血压,noun phrase,心血管,BP = blood pressure,Blood pressure varies over time.,血压随时间变化。,2
+term-peri,peri-,周围,prefix,构词基础,周围,Pericardial means around the heart.,pericardial表示心脏周围的。,1
+term-endo,endo-,内部,prefix,构词基础,内部,Endocardial refers to the inner lining of the heart.,endocardial指心脏内衬相关的。,1
+term-epi,epi-,上方；表面,prefix,构词基础,表面,The epidermis is the outer layer of the skin.,表皮是皮肤的外层。,1
+term-intra,intra-,内部,prefix,构词基础,内部,Intravenous means within a vein.,intravenous表示静脉内的。,1
+term-inter,inter-,之间,prefix,构词基础,之间,Intercostal structures lie between the ribs.,肋间结构位于肋骨之间。,1
+term-sub,sub-,下方,prefix,构词基础,下方,Subcutaneous tissue lies below the skin.,皮下组织位于皮肤下方。,1
+term-trans,trans-,穿过,prefix,构词基础,穿过,A transdermal drug passes through the skin.,经皮药物通过皮肤。,1
+term-pre,pre-,之前,prefix,构词基础,之前,Preoperative assessment occurs before surgery.,术前评估发生在手术之前。,1
+term-post,post-,之后,prefix,构词基础,之后,Postoperative pain occurs after an operation.,术后疼痛发生在手术之后。,1
+term-anti,anti-,对抗,prefix,构词基础,对抗,An anticoagulant reduces blood clotting.,抗凝药降低血液凝固能力。,1
+term-contra,contra-,相反；对抗,prefix,构词基础,相反,A contraindication is a reason to avoid a treatment.,禁忌证是应避免某治疗的理由。,1
+term-response,response,反应,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,The response to treatment is documented.,治疗反应被记录下来。,1
+term-prognosis,prognosis,预后,noun / noun phrase,构词基础,按完整术语学习；不强行拆分,Prognosis depends on several patient-specific factors.,预后取决于多种患者个体因素。,1
+hypertension,hypertension,高血压,noun,心血管,hyper- + tension,Hypertension is often asymptomatic.,高血压常无症状。,2
+artery,artery,动脉,noun,心血管,arteri/o,An artery carries blood away from the heart.,动脉将血液从心脏输送出去。,2
+vein,vein,静脉,noun,心血管,ven/o,A vein carries blood toward the heart.,静脉将血液输送回心脏。,2
+myocardium,myocardium,心肌,noun,心血管,my/o + cardi + -um,The myocardium contracts to pump blood.,心肌收缩以泵血。,2
+systolic,systolic,收缩期的,adjective,心血管,systol/o,Systolic pressure is the higher reading.,收缩压是较高的读数。,2
+diastolic,diastolic,舒张期的,adjective,心血管,diastol/o,Diastolic pressure is the lower reading.,舒张压是较低的读数。,2
+asymptomatic,asymptomatic,无症状的,adjective,心血管,a- + symptomatic,The patient is asymptomatic.,患者无症状。,2
+risk-factor,risk factor,危险因素,noun phrase,心血管,固定搭配,Smoking is a cardiovascular risk factor.,吸烟是心血管危险因素。,2
+coronary-artery-disease,coronary artery disease,冠状动脉疾病,noun phrase,心血管,CAD = coronary artery disease,Coronary artery disease can cause chest pain.,冠状动脉疾病可引起胸痛。,2
+myocardial-infarction,myocardial infarction,心肌梗死,noun phrase,心血管,MI = myocardial infarction,Myocardial infarction requires urgent assessment.,心肌梗死需要紧急评估。,2
+heart-failure,heart failure,心力衰竭,noun phrase,心血管,HF = heart failure,Heart failure may cause breathlessness.,心力衰竭可能引起气促。,2
+atrial-fibrillation,atrial fibrillation,心房颤动,noun phrase,心血管,AF = atrial fibrillation,Atrial fibrillation is an arrhythmia.,心房颤动是一种心律失常。,2
+antihypertensive,antihypertensive,降压的；降压药,adjective / noun,心血管,anti- + hypertensive,Antihypertensive treatment lowers blood pressure.,降压治疗降低血压。,2
+term-atrium,atrium,心房,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The atrium receives blood returning to the heart.,心房接收回流至心脏的血液。,2
+term-ventricle,ventricle,心室,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The left ventricle pumps blood into the aorta.,左心室将血液泵入主动脉。,2
+term-aorta,aorta,主动脉,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The aorta carries blood from the left ventricle.,主动脉输送来自左心室的血液。,2
+term-valve,valve,瓣膜,noun / noun phrase,心血管,按完整术语学习；不强行拆分,A valve helps maintain forward blood flow.,瓣膜有助于维持血液前向流动。,2
+term-septum,septum,间隔,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The septum separates the right and left ventricles.,室间隔分隔左右心室。,2
+term-pulmonary-circulation,pulmonary circulation,肺循环,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Pulmonary circulation carries blood between the heart and lungs.,肺循环在心脏与肺之间输送血液。,2
+term-systemic-circulation,systemic circulation,体循环,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Systemic circulation supplies the tissues of the body.,体循环向全身组织供血。,2
+term-oxygenation,oxygenation,氧合,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Blood oxygenation improves as gas exchange occurs in the lungs.,肺内气体交换使血液得到氧合。,2
+term-perfusion,perfusion,灌注,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Poor tissue perfusion can occur despite an adequate oxygen saturation.,即使氧饱和度足够也可能存在组织灌注不足。,2
+term-cardiac-output,cardiac output,心输出量,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Cardiac output depends on heart rate and stroke volume.,心输出量取决于心率和每搏量。,2
+term-stroke-volume,stroke volume,每搏量,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Stroke volume is the volume ejected with each heartbeat.,每搏量是每次心搏射出的血量。,2
+term-angina,angina,心绞痛,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Angina may occur during exertion.,心绞痛可能在劳力时出现。,2
+term-ischemia,ischemia,缺血,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Ischemia occurs when blood supply is inadequate for tissue needs.,血供不能满足组织需求时发生缺血。,2
+term-atherosclerosis,atherosclerosis,动脉粥样硬化,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Atherosclerosis involves plaque formation in arterial walls.,动脉粥样硬化涉及动脉壁斑块形成。,2
+term-plaque,plaque,斑块,noun / noun phrase,心血管,按完整术语学习；不强行拆分,A coronary plaque may narrow the arterial lumen.,冠状动脉斑块可能使管腔变窄。,2
+term-exertion,exertion,劳力；体力活动,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The discomfort occurs during exertion.,不适在体力活动时出现。,2
+term-rest,rest,休息,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The pain subsides with rest.,疼痛在休息后减轻。,2
+term-troponin,troponin,肌钙蛋白,noun / noun phrase,心血管,按完整术语学习；不强行拆分,An elevated troponin indicates myocardial injury in the appropriate context.,在适当背景下肌钙蛋白升高提示心肌损伤。,2
+term-thrombus,thrombus,血栓,noun / noun phrase,心血管,按完整术语学习；不强行拆分,A thrombus forms within the circulation.,血栓在循环系统内形成。,2
+term-orthopnea,orthopnea,端坐呼吸,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Orthopnea worsens when the patient lies flat.,平卧时端坐呼吸症状加重。,2
+term-congestion,congestion,淤血；充血,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Pulmonary congestion can contribute to breathlessness.,肺淤血可促成气促。,2
+term-ejection-fraction,ejection fraction,射血分数,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Ejection fraction describes the proportion of ventricular volume ejected per beat.,射血分数描述每搏射出血量占心室舒张末容积的比例。,2
+term-echocardiography,echocardiography,超声心动图检查,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Echocardiography assesses cardiac structure and function.,超声心动图检查评估心脏结构与功能。,2
+dyspnea,dyspnea,呼吸困难,noun,呼吸,dys- + -pnea,Dyspnea is a subjective symptom.,呼吸困难是一种主观症状。,2
+term-fluid-balance,fluid balance,液体平衡,noun / noun phrase,心血管,按完整术语学习；不强行拆分,"Fluid balance is assessed using intake, output, and clinical findings.",通过出入量及临床发现评估液体平衡。,2
+term-palpitations,palpitations,心悸,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Palpitations describe awareness of the heartbeat.,心悸描述对心跳的异常感知。,2
+term-arrhythmia,arrhythmia,心律失常,noun / noun phrase,心血管,按完整术语学习；不强行拆分,An arrhythmia alters the normal rhythm of the heart.,心律失常改变正常心脏节律。,2
+term-pulse,pulse,脉搏,noun / noun phrase,心血管,按完整术语学习；不强行拆分,The pulse is irregular on palpation.,触诊发现脉搏不规则。,2
+term-conduction,conduction,传导,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Electrical conduction coordinates cardiac contraction.,电传导协调心脏收缩。,2
+term-syncope,syncope,晕厥,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Syncope involves transient loss of consciousness with spontaneous recovery.,晕厥涉及短暂意识丧失并自行恢复。,2
+term-stroke,stroke,卒中,noun / noun phrase,心血管,按完整术语学习；不强行拆分,A stroke may cause sudden focal neurological symptoms.,卒中可能引起突发局灶性神经症状。,2
+term-anticoagulant,anticoagulant,抗凝药,noun / noun phrase,心血管,按完整术语学习；不强行拆分,An anticoagulant reduces clot formation but can increase bleeding risk.,抗凝药减少凝血，但可增加出血风险。,2
+term-bleeding,bleeding,出血,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Bleeding risk must be considered when selecting treatment.,选择治疗时必须考虑出血风险。,2
+term-stenosis,stenosis,狭窄,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Valve stenosis restricts forward flow.,瓣膜狭窄限制前向血流。,2
+term-regurgitation,regurgitation,反流,noun / noun phrase,心血管,按完整术语学习；不强行拆分,Valve regurgitation allows backward flow.,瓣膜反流允许血液逆向流动。,2
+term-murmur,murmur,杂音,noun / noun phrase,心血管,按完整术语学习；不强行拆分,A murmur is heard during auscultation.,听诊可闻及杂音。,2
+term-embolus,embolus,栓子,noun / noun phrase,心血管,按完整术语学习；不强行拆分,An embolus travels and may obstruct a distant vessel.,栓子可移动并阻塞远端血管。,2
+term-antiplatelet,antiplatelet,抗血小板药,noun / noun phrase,心血管,按完整术语学习；不强行拆分,An antiplatelet drug reduces platelet activity.,抗血小板药降低血小板活性。,2
+pneumonia,pneumonia,肺炎,noun,呼吸,pneumon/o,Pneumonia is an infection of the lung.,肺炎是肺部感染。,2
+cough,cough,咳嗽,noun / verb,呼吸,不强行拆词,The patient reports a cough.,患者诉咳嗽。,2
+sputum,sputum,痰,noun,呼吸,不强行拆词,Sputum color alone does not identify a pathogen.,仅凭痰色不能确定病原体。,2
+tachypnea,tachypnea,呼吸急促,noun,呼吸,tachy- + -pnea,Tachypnea means an increased breathing rate.,呼吸急促指呼吸频率增加。,2
+hypoxemia,hypoxemia,低氧血症,noun,呼吸,hypo- + ox + -emia,Hypoxemia refers to low oxygen in arterial blood.,低氧血症指动脉血氧水平降低。,2
+crackles,crackles,湿啰音；爆裂音,plural noun,呼吸,听诊术语,Crackles are heard over the right lung base.,右肺底可闻及湿啰音。,2
+consolidation,consolidation,实变,noun,呼吸,consolidat- + -ion,Consolidation may be seen on a chest radiograph.,胸片上可能见到实变。,2
+pleuritic,pleuritic,胸膜炎性的,adjective,呼吸,pleur/o + -itic,Pleuritic pain worsens with inspiration.,胸膜炎性疼痛在吸气时加重。,2
+chest-radiograph,chest radiograph,胸部X线片,noun phrase,呼吸,radi/o + -graph,A chest radiograph shows a new opacity.,胸片显示新出现的阴影。,2
+pathogen,pathogen,病原体,noun,呼吸,path/o + -gen,The pathogen has not been identified.,病原体尚未确定。,2
+antibiotic,antibiotic,抗菌药物,noun,呼吸,anti- + biotic,Antibiotics are used to treat bacterial infections.,抗菌药物用于治疗细菌感染。,2
+community-acquired-pneumonia,community-acquired pneumonia,社区获得性肺炎,noun phrase,呼吸,CAP = community-acquired pneumonia,Community-acquired pneumonia develops outside the hospital setting.,社区获得性肺炎发生于医院环境之外。,2
+term-asthma,asthma,哮喘,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Asthma can produce variable respiratory symptoms.,哮喘可引起变化的呼吸症状。,2
+term-airway,airway,气道,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Airway narrowing can limit airflow.,气道变窄可限制气流。,2
+term-bronchoconstriction,bronchoconstriction,支气管收缩,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Bronchoconstriction reduces the caliber of the airways.,支气管收缩使气道管径减小。,2
+term-wheeze,wheeze,哮鸣音,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,A wheeze may be heard during expiration.,呼气时可能闻及哮鸣音。,2
+term-trigger,trigger,诱因,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Exercise can act as a trigger in some patients.,运动可成为部分患者的诱因。,2
+term-reversibility,reversibility,可逆性,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Reversibility is assessed by comparing lung function before and after intervention.,通过比较干预前后肺功能评估可逆性。,2
+term-spirometry,spirometry,肺量计检查,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Spirometry measures volumes and flows during breathing maneuvers.,肺量计检查测量呼吸动作中的容积和流量。,2
+term-airflow-limitation,airflow limitation,气流受限,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Persistent airflow limitation requires clinical interpretation.,持续气流受限需要结合临床解释。,2
+term-bronchodilator,bronchodilator,支气管扩张药,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,A bronchodilator relaxes airway smooth muscle.,支气管扩张药使气道平滑肌舒张。,2
+term-inhaler,inhaler,吸入装置,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Correct inhaler technique affects drug delivery.,正确吸入技术影响药物递送。,2
+term-chronic-obstructive-pulmonary-disease,chronic obstructive pulmonary disease,慢性阻塞性肺疾病,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Chronic obstructive pulmonary disease is commonly abbreviated COPD.,慢性阻塞性肺疾病常缩写为COPD。,2
+term-emphysema,emphysema,肺气肿,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Emphysema involves damage to alveolar structures.,肺气肿涉及肺泡结构损伤。,2
+term-pulmonary-embolism,pulmonary embolism,肺栓塞,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Pulmonary embolism obstructs part of the pulmonary circulation.,肺栓塞阻塞部分肺循环。,2
+term-immobility,immobility,活动受限；制动,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Prolonged immobility can increase venous thromboembolic risk.,长期制动可增加静脉血栓栓塞风险。,2
+term-hemoptysis,hemoptysis,咯血,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Hemoptysis means coughing up blood from the respiratory tract.,咯血指咳出来自呼吸道的血。,2
+term-oxygen-saturation,oxygen saturation,氧饱和度,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Oxygen saturation estimates the proportion of hemoglobin carrying oxygen.,氧饱和度估计血红蛋白携氧的比例。,2
+term-ventilation,ventilation,通气,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Ventilation moves air into and out of the lungs.,通气使空气进出肺。,2
+term-respiratory-failure,respiratory failure,呼吸衰竭,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Respiratory failure involves inadequate gas exchange.,呼吸衰竭涉及气体交换不足。,2
+term-hypercapnia,hypercapnia,高碳酸血症,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Hypercapnia means elevated carbon dioxide in arterial blood.,高碳酸血症指动脉血二氧化碳升高。,2
+term-arterial-blood-gas,arterial blood gas,动脉血气,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,"An arterial blood gas provides information about oxygen, carbon dioxide, and acid-base status.",动脉血气提供氧、二氧化碳及酸碱状态信息。,2
+term-obstructive-sleep-apnea,obstructive sleep apnea,阻塞性睡眠呼吸暂停,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Obstructive sleep apnea involves repeated upper-airway obstruction during sleep.,阻塞性睡眠呼吸暂停涉及睡眠中反复上气道阻塞。,2
+term-snoring,snoring,打鼾,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Snoring alone does not establish sleep apnea.,仅凭打鼾不能确诊睡眠呼吸暂停。,2
+term-apnea,apnea,呼吸暂停,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,An apnea is a pause in breathing.,呼吸暂停指呼吸停止一段时间。,2
+term-daytime-sleepiness,daytime sleepiness,日间嗜睡,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,Daytime sleepiness can impair concentration.,日间嗜睡可影响注意力。,2
+term-sleep-study,sleep study,睡眠监测,noun / noun phrase,呼吸,按完整术语学习；不强行拆分,A sleep study records physiological signals during sleep.,睡眠监测记录睡眠中的生理信号。,2
+term-esophagus,esophagus,食管,noun / noun phrase,消化,按完整术语学习；不强行拆分,The esophagus carries swallowed material toward the stomach.,食管将吞咽物送向胃。,2
+term-stomach,stomach,胃,noun / noun phrase,消化,按完整术语学习；不强行拆分,The stomach mixes food with digestive secretions.,胃将食物与消化液混合。,2
+term-duodenum,duodenum,十二指肠,noun / noun phrase,消化,按完整术语学习；不强行拆分,The duodenum is the first part of the small intestine.,十二指肠是小肠的第一部分。,2
+term-small-intestine,small intestine,小肠,noun / noun phrase,消化,按完整术语学习；不强行拆分,Most nutrient absorption occurs in the small intestine.,大多数营养吸收发生在小肠。,2
+term-colon,colon,结肠,noun / noun phrase,消化,按完整术语学习；不强行拆分,The colon absorbs water from intestinal contents.,结肠从肠内容物中吸收水分。,2
+term-rectum,rectum,直肠,noun / noun phrase,消化,按完整术语学习；不强行拆分,The rectum stores stool before defecation.,直肠在排便前储存粪便。,2
+term-liver,liver,肝脏,noun / noun phrase,消化,按完整术语学习；不强行拆分,The liver has metabolic and synthetic functions.,肝脏具有代谢和合成功能。,2
+term-gallbladder,gallbladder,胆囊,noun / noun phrase,消化,按完整术语学习；不强行拆分,The gallbladder stores bile.,胆囊储存胆汁。,2
+term-bile,bile,胆汁,noun / noun phrase,消化,按完整术语学习；不强行拆分,Bile helps with the digestion and absorption of fats.,胆汁有助于脂肪消化和吸收。,2
+term-pancreas,pancreas,胰腺,noun / noun phrase,消化,按完整术语学习；不强行拆分,The pancreas releases digestive enzymes into the intestine.,胰腺向肠道释放消化酶。,2
+term-digestion,digestion,消化,noun / noun phrase,消化,按完整术语学习；不强行拆分,Digestion breaks food into smaller components.,消化将食物分解为较小成分。,2
+term-absorption,absorption,吸收,noun / noun phrase,消化,按完整术语学习；不强行拆分,Impaired absorption can contribute to nutritional deficiencies.,吸收障碍可导致营养缺乏。,2
+term-peristalsis,peristalsis,蠕动,noun / noun phrase,消化,按完整术语学习；不强行拆分,Peristalsis moves contents along the digestive tract.,蠕动推动消化道内容物前行。,2
+term-mucosa,mucosa,黏膜,noun / noun phrase,消化,按完整术语学习；不强行拆分,The mucosa forms the inner lining of the digestive tract.,黏膜构成消化道内衬。,2
+term-malabsorption,malabsorption,吸收不良,noun / noun phrase,消化,按完整术语学习；不强行拆分,Malabsorption may cause weight loss and nutrient deficiencies.,吸收不良可导致体重下降和营养缺乏。,2
+term-reflux,reflux,反流,noun / noun phrase,消化,按完整术语学习；不强行拆分,Reflux allows gastric contents to move into the esophagus.,反流使胃内容物进入食管。,2
+term-heartburn,heartburn,烧心,noun / noun phrase,消化,按完整术语学习；不强行拆分,Heartburn is often described as a burning sensation behind the sternum.,烧心常被描述为胸骨后烧灼感。,2
+term-esophagitis,esophagitis,食管炎,noun / noun phrase,消化,按完整术语学习；不强行拆分,Esophagitis means inflammation of the esophagus.,食管炎指食管炎症。,2
+term-dysphagia,dysphagia,吞咽困难,noun / noun phrase,消化,按完整术语学习；不强行拆分,Dysphagia describes difficulty swallowing.,吞咽困难描述吞咽费力。,2
+term-odynophagia,odynophagia,吞咽痛,noun / noun phrase,消化,按完整术语学习；不强行拆分,Odynophagia refers to pain on swallowing.,吞咽痛指吞咽时疼痛。,2
+term-endoscopy,endoscopy,内镜检查,noun / noun phrase,消化,按完整术语学习；不强行拆分,Endoscopy can identify a source of gastrointestinal bleeding.,内镜检查可寻找胃肠道出血来源。,2
+term-weight-loss,weight loss,体重下降,noun / noun phrase,消化,按完整术语学习；不强行拆分,Unintentional weight loss warrants clinical assessment.,非意愿体重下降需要临床评估。,2
+term-peptic-ulcer-disease,peptic ulcer disease,消化性溃疡病,noun / noun phrase,消化,按完整术语学习；不强行拆分,Peptic ulcer disease can affect the stomach or duodenum.,消化性溃疡病可累及胃或十二指肠。,2
+term-ulcer,ulcer,溃疡,noun / noun phrase,消化,按完整术语学习；不强行拆分,An ulcer extends beyond a superficial mucosal defect.,溃疡较浅表黏膜缺损更深。,2
+term-helicobacter-pylori,Helicobacter pylori,幽门螺杆菌,noun / noun phrase,消化,按完整术语学习；不强行拆分,Helicobacter pylori is associated with peptic ulcer disease.,幽门螺杆菌与消化性溃疡病有关。,2
+term-nonsteroidal-anti-inflammatory-drug,nonsteroidal anti-inflammatory drug,非甾体抗炎药,noun / noun phrase,消化,按完整术语学习；不强行拆分,A nonsteroidal anti-inflammatory drug can increase gastrointestinal bleeding risk.,非甾体抗炎药可增加胃肠道出血风险。,2
+term-nausea,nausea,恶心,noun / noun phrase,消化,按完整术语学习；不强行拆分,Nausea may occur without vomiting.,可有恶心而没有呕吐。,2
+term-vomiting,vomiting,呕吐,noun / noun phrase,消化,按完整术语学习；不强行拆分,Persistent vomiting may lead to fluid loss.,持续呕吐可能导致液体丢失。,2
+term-hematemesis,hematemesis,呕血,noun / noun phrase,消化,按完整术语学习；不强行拆分,Hematemesis means vomiting blood.,呕血指呕吐出血液。,2
+term-melena,melena,黑粪,noun / noun phrase,消化,按完整术语学习；不强行拆分,"Melena typically describes black, tarry stool containing digested blood.",黑粪通常描述含消化后血液的黑色柏油样便。,2
+term-hematochezia,hematochezia,便血,noun / noun phrase,消化,按完整术语学习；不强行拆分,Hematochezia refers to passage of fresh blood through the anus.,便血指经肛门排出新鲜血液。,2
+term-varices,varices,静脉曲张,noun / noun phrase,消化,按完整术语学习；不强行拆分,Esophageal varices may bleed.,食管静脉曲张可能出血。,2
+term-hepatitis,hepatitis,肝炎,noun / noun phrase,消化,按完整术语学习；不强行拆分,Hepatitis involves inflammation of the liver.,肝炎涉及肝脏炎症。,2
+term-aminotransferase,aminotransferase,氨基转移酶,noun / noun phrase,消化,按完整术语学习；不强行拆分,Aminotransferase elevation can indicate hepatocellular injury.,氨基转移酶升高可提示肝细胞损伤。,2
+term-bilirubin,bilirubin,胆红素,noun / noun phrase,消化,按完整术语学习；不强行拆分,Elevated bilirubin can contribute to jaundice.,胆红素升高可造成黄疸。,2
+term-jaundice,jaundice,黄疸,noun / noun phrase,消化,按完整术语学习；不强行拆分,Jaundice causes yellow discoloration of the skin or sclerae.,黄疸使皮肤或巩膜黄染。,2
+term-synthetic-function,synthetic function,合成功能,noun / noun phrase,消化,按完整术语学习；不强行拆分,Synthetic function is one aspect of liver assessment.,合成功能是肝脏评估的一部分。,2
+term-albumin,albumin,白蛋白,noun / noun phrase,消化,按完整术语学习；不强行拆分,"Albumin concentration is influenced by synthesis, losses, and inflammation.",白蛋白浓度受合成、丢失及炎症影响。,2
+term-cirrhosis,cirrhosis,肝硬化,noun / noun phrase,消化,按完整术语学习；不强行拆分,Cirrhosis alters the normal architecture of the liver.,肝硬化改变肝脏正常结构。,2
+term-portal-hypertension,portal hypertension,门静脉高压,noun / noun phrase,消化,按完整术语学习；不强行拆分,Portal hypertension can contribute to varices and ascites.,门静脉高压可促成静脉曲张和腹水。,2
+term-ascites,ascites,腹水,noun / noun phrase,消化,按完整术语学习；不强行拆分,Ascites is fluid accumulation in the peritoneal cavity.,腹水是腹膜腔内液体积聚。,2
+term-encephalopathy,encephalopathy,脑病,noun / noun phrase,消化,按完整术语学习；不强行拆分,New confusion in liver disease requires assessment for encephalopathy and other causes.,肝病患者新发意识混乱需评估脑病及其他原因。,2
+term-paracentesis,paracentesis,腹腔穿刺,noun / noun phrase,消化,按完整术语学习；不强行拆分,Paracentesis obtains ascitic fluid for assessment.,腹腔穿刺取得腹水供评估。,2
+term-pancreatitis,pancreatitis,胰腺炎,noun / noun phrase,消化,按完整术语学习；不强行拆分,Pancreatitis can cause upper abdominal pain.,胰腺炎可导致上腹痛。,2
+term-lipase,lipase,脂肪酶,noun / noun phrase,消化,按完整术语学习；不强行拆分,Lipase results must be interpreted with the clinical presentation.,脂肪酶结果需结合临床表现解释。,2
+term-gallstone,gallstone,胆石,noun / noun phrase,消化,按完整术语学习；不强行拆分,A gallstone may obstruct a biliary duct.,胆石可能阻塞胆道。,2
+term-inflammatory-bowel-disease,inflammatory bowel disease,炎症性肠病,noun / noun phrase,消化,按完整术语学习；不强行拆分,Inflammatory bowel disease includes Crohn disease and ulcerative colitis.,炎症性肠病包括克罗恩病和溃疡性结肠炎。,2
+term-crohn-disease,Crohn disease,克罗恩病,noun / noun phrase,消化,按完整术语学习；不强行拆分,Crohn disease may affect different parts of the gastrointestinal tract.,克罗恩病可累及消化道不同部位。,2
+term-ulcerative-colitis,ulcerative colitis,溃疡性结肠炎,noun / noun phrase,消化,按完整术语学习；不强行拆分,Ulcerative colitis affects the colon and rectum.,溃疡性结肠炎累及结肠和直肠。,2
+term-irritable-bowel-syndrome,irritable bowel syndrome,肠易激综合征,noun / noun phrase,消化,按完整术语学习；不强行拆分,Irritable bowel syndrome involves recurrent abdominal pain related to bowel habits.,肠易激综合征涉及与排便习惯相关的复发腹痛。,2
+term-diarrhea,diarrhea,腹泻,noun / noun phrase,消化,按完整术语学习；不强行拆分,Diarrhea can have infectious or noninfectious causes.,腹泻可有感染性或非感染性原因。,2
+term-kidney,kidney,肾脏,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,"The kidneys regulate water, electrolytes, and acid-base balance.",肾脏调节水、电解质和酸碱平衡。,2
+term-nephron,nephron,肾单位,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,The nephron is a functional unit of the kidney.,肾单位是肾脏的功能单位。,2
+term-glomerulus,glomerulus,肾小球,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,The glomerulus filters plasma into the nephron.,肾小球将血浆滤入肾单位。,2
+term-tubule,tubule,肾小管,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,The tubule modifies the filtered fluid.,肾小管对滤液进行调整。,2
+term-ureter,ureter,输尿管,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,The ureter carries urine from the kidney to the bladder.,输尿管将尿液从肾脏输送至膀胱。,2
+term-bladder,bladder,膀胱,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,The bladder stores urine before voiding.,膀胱在排尿前储存尿液。,2
+term-urethra,urethra,尿道,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Urine leaves the body through the urethra.,尿液经尿道排出体外。,2
+term-filtration,filtration,滤过,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Filtration is followed by tubular processing.,滤过后还有肾小管处理。,2
+term-reabsorption,reabsorption,重吸收,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Reabsorption returns filtered substances to the circulation.,重吸收使滤出物质返回循环。,2
+term-secretion,secretion,分泌,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Tubular secretion transfers selected substances into tubular fluid.,肾小管分泌将某些物质转入管液。,2
+term-creatinine,creatinine,肌酐,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Creatinine is influenced by kidney function and muscle-related factors.,肌酐受肾功能及肌肉相关因素影响。,2
+term-estimated-glomerular-filtration-rate,estimated glomerular filtration rate,估算肾小球滤过率,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Estimated glomerular filtration rate is often abbreviated eGFR.,估算肾小球滤过率常缩写为eGFR。,2
+term-sodium,sodium,钠,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Sodium concentration reflects water balance as well as solute handling.,钠浓度反映水分平衡及溶质处理。,2
+term-potassium,potassium,钾,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Potassium abnormalities can affect cardiac conduction.,钾异常可影响心脏传导。,2
+term-acid-base-balance,acid-base balance,酸碱平衡,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Kidney and respiratory function both influence acid-base balance.,肾功能与呼吸功能均影响酸碱平衡。,2
+term-acute-kidney-injury,acute kidney injury,急性肾损伤,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Acute kidney injury involves a recent deterioration in kidney function.,急性肾损伤涉及近期肾功能恶化。,2
+term-oliguria,oliguria,少尿,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Oliguria indicates reduced urine output.,少尿表示尿量减少。,2
+term-anuria,anuria,无尿,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Anuria describes absent or extremely low urine output.,无尿描述尿量缺如或极少。,2
+term-depletion,depletion,不足；耗竭,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Volume depletion can reduce kidney perfusion.,容量不足可降低肾灌注。,2
+term-nephrotoxic,nephrotoxic,肾毒性的,adjective,泌尿,按完整术语学习；不强行拆分,A nephrotoxic exposure may contribute to kidney injury.,肾毒性暴露可能促成肾损伤。,2
+term-obstruction,obstruction,梗阻,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Urinary obstruction can impair drainage.,尿路梗阻可妨碍引流。,2
+term-hydronephrosis,hydronephrosis,肾积水,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Hydronephrosis describes dilation of the collecting system.,肾积水描述集合系统扩张。,2
+term-chronic-kidney-disease,chronic kidney disease,慢性肾脏病,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Chronic kidney disease requires evidence of persistent kidney abnormality.,慢性肾脏病需要持续肾脏异常的证据。,2
+term-albuminuria,albuminuria,白蛋白尿,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Albuminuria can provide evidence of kidney damage.,白蛋白尿可提供肾损伤证据。,2
+term-proteinuria,proteinuria,蛋白尿,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Proteinuria may indicate abnormal renal protein handling.,蛋白尿可提示肾脏蛋白处理异常。,2
+term-nephrotic-syndrome,nephrotic syndrome,肾病综合征,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Nephrotic syndrome combines substantial protein loss with characteristic clinical findings.,肾病综合征结合大量蛋白丢失及特征性临床表现。,2
+term-hematuria,hematuria,血尿,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Hematuria requires interpretation of the urine findings.,血尿需要结合尿液检查解释。,2
+term-dysuria,dysuria,排尿疼痛或困难,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Dysuria is a symptom rather than a pathogen diagnosis.,尿痛是症状，而非病原体诊断。,2
+term-urinary-frequency,urinary frequency,尿频,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Urinary frequency does not necessarily mean increased total urine volume.,尿频不一定表示总尿量增加。,2
+term-urinary-tract-infection,urinary tract infection,尿路感染,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,A urinary tract infection may involve the bladder or upper urinary tract.,尿路感染可累及膀胱或上尿路。,2
+term-pyelonephritis,pyelonephritis,肾盂肾炎,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Pyelonephritis involves infection of the upper urinary tract.,肾盂肾炎涉及上尿路感染。,2
+term-polyuria,polyuria,多尿,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Polyuria refers to increased urine volume.,多尿指尿量增多。,2
+term-hyperkalemia,hyperkalemia,高钾血症,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Hyperkalemia requires prompt assessment in the appropriate clinical context.,高钾血症在相应临床情境下需及时评估。,2
+term-dialysis,dialysis,透析,noun / noun phrase,泌尿,按完整术语学习；不强行拆分,Dialysis replaces selected functions of the kidneys.,透析替代肾脏的部分功能。,2
+term-erythrocyte,erythrocyte,红细胞,noun / noun phrase,血液,按完整术语学习；不强行拆分,An erythrocyte transports respiratory gases through hemoglobin.,红细胞通过血红蛋白运输呼吸气体。,2
+term-hemoglobin,hemoglobin,血红蛋白,noun / noun phrase,血液,按完整术语学习；不强行拆分,Hemoglobin binds oxygen within red blood cells.,血红蛋白在红细胞内结合氧。,2
+term-hematocrit,hematocrit,血细胞比容,noun / noun phrase,血液,按完整术语学习；不强行拆分,Hematocrit expresses the proportion of blood volume occupied by red cells.,血细胞比容表示红细胞占血液容积的比例。,2
+term-leukocyte,leukocyte,白细胞,noun / noun phrase,血液,按完整术语学习；不强行拆分,A leukocyte participates in immune defense.,白细胞参与免疫防御。,2
+term-neutrophil,neutrophil,中性粒细胞,noun / noun phrase,血液,按完整术语学习；不强行拆分,Neutrophils contribute to defense against many bacterial infections.,中性粒细胞参与抵御多种细菌感染。,2
+term-lymphocyte,lymphocyte,淋巴细胞,noun / noun phrase,血液,按完整术语学习；不强行拆分,Lymphocytes include B cells and T cells.,淋巴细胞包括B细胞和T细胞。,2
+term-platelet,platelet,血小板,noun / noun phrase,血液,按完整术语学习；不强行拆分,Platelets help form the initial hemostatic plug.,血小板有助于形成初始止血栓。,2
+term-plasma,plasma,血浆,noun / noun phrase,血液,按完整术语学习；不强行拆分,Plasma carries proteins and dissolved substances.,血浆携带蛋白质与溶解物质。,2
+term-bone-marrow,bone marrow,骨髓,noun / noun phrase,血液,按完整术语学习；不强行拆分,Bone marrow produces circulating blood cells.,骨髓产生循环血细胞。,2
+term-reticulocyte,reticulocyte,网织红细胞,noun / noun phrase,血液,按完整术语学习；不强行拆分,A reticulocyte is an immature red blood cell.,网织红细胞是未成熟红细胞。,2
+term-anemia,anemia,贫血,noun / noun phrase,血液,按完整术语学习；不强行拆分,Anemia reduces the blood's capacity to carry oxygen.,贫血降低血液携氧能力。,2
+term-mean-corpuscular-volume,mean corpuscular volume,平均红细胞体积,noun / noun phrase,血液,按完整术语学习；不强行拆分,Mean corpuscular volume is often abbreviated MCV.,平均红细胞体积常缩写为MCV。,2
+term-complete-blood-count,complete blood count,全血细胞计数,noun / noun phrase,血液,按完整术语学习；不强行拆分,A complete blood count is commonly abbreviated CBC.,全血细胞计数常缩写为CBC。,2
+term-peripheral-smear,peripheral smear,外周血涂片,noun / noun phrase,血液,按完整术语学习；不强行拆分,A peripheral smear allows assessment of cell morphology.,外周血涂片可评估细胞形态。,2
+term-pancytopenia,pancytopenia,全血细胞减少,noun / noun phrase,血液,按完整术语学习；不强行拆分,"Pancytopenia affects red cells, white cells, and platelets.",全血细胞减少涉及红细胞、白细胞和血小板。,2
+term-iron-deficiency,iron deficiency,铁缺乏,noun / noun phrase,血液,按完整术语学习；不强行拆分,Iron deficiency may follow chronic blood loss.,铁缺乏可继发于慢性失血。,2
+term-ferritin,ferritin,铁蛋白,noun / noun phrase,血液,按完整术语学习；不强行拆分,Ferritin reflects iron stores but is also influenced by inflammation.,铁蛋白反映铁储备，也受炎症影响。,2
+term-transferrin,transferrin,转铁蛋白,noun / noun phrase,血液,按完整术语学习；不强行拆分,Transferrin transports iron in the circulation.,转铁蛋白在循环中运输铁。,2
+term-microcytic,microcytic,小细胞性的,adjective,血液,按完整术语学习；不强行拆分,Microcytic cells are smaller than expected.,小细胞性红细胞比预期小。,2
+term-macrocytic,macrocytic,大细胞性的,adjective,血液,按完整术语学习；不强行拆分,Macrocytic cells are larger than expected.,大细胞性红细胞比预期大。,2
+term-megaloblastic,megaloblastic,巨幼细胞性的,adjective,血液,按完整术语学习；不强行拆分,Megaloblastic changes reflect impaired DNA synthesis.,巨幼细胞改变反映DNA合成受损。,2
+term-vitamin-b12,vitamin B12,维生素B12,noun / noun phrase,血液,按完整术语学习；不强行拆分,Vitamin B12 deficiency may cause neurological abnormalities.,维生素B12缺乏可引起神经异常。,2
+term-folate,folate,叶酸,noun / noun phrase,血液,按完整术语学习；不强行拆分,Folate is required for normal DNA synthesis.,叶酸是正常DNA合成所需物质。,2
+term-paresthesia,paresthesia,感觉异常,noun / noun phrase,血液,按完整术语学习；不强行拆分,Paresthesia may be described as tingling.,感觉异常可被描述为麻刺感。,2
+term-hemolysis,hemolysis,溶血,noun / noun phrase,血液,按完整术语学习；不强行拆分,Hemolysis shortens red cell survival.,溶血缩短红细胞存活时间。,2
+term-haptoglobin,haptoglobin,结合珠蛋白,noun / noun phrase,血液,按完整术语学习；不强行拆分,Haptoglobin binds free hemoglobin in plasma.,结合珠蛋白结合血浆中游离血红蛋白。,2
+term-lactate-dehydrogenase,lactate dehydrogenase,乳酸脱氢酶,noun / noun phrase,血液,按完整术语学习；不强行拆分,Lactate dehydrogenase is abbreviated LDH.,乳酸脱氢酶缩写为LDH。,2
+term-splenomegaly,splenomegaly,脾大,noun / noun phrase,血液,按完整术语学习；不强行拆分,Splenomegaly means enlargement of the spleen.,脾大指脾脏增大。,2
+term-thrombocytopenia,thrombocytopenia,血小板减少症,noun / noun phrase,血液,按完整术语学习；不强行拆分,Thrombocytopenia describes a low platelet count.,血小板减少症描述血小板计数降低。,2
+term-petechiae,petechiae,瘀点,noun / noun phrase,血液,按完整术语学习；不强行拆分,Petechiae are small nonblanching spots caused by bleeding into the skin.,瘀点是皮内出血形成的不褪色小点。,2
+term-purpura,purpura,紫癜,noun / noun phrase,血液,按完整术语学习；不强行拆分,Purpura describes visible bleeding into skin or mucosa.,紫癜描述皮肤或黏膜可见出血。,2
+term-coagulation,coagulation,凝血,noun / noun phrase,血液,按完整术语学习；不强行拆分,Coagulation involves a sequence of clotting reactions.,凝血涉及一系列凝固反应。,2
+term-clotting-factor,clotting factor,凝血因子,noun / noun phrase,血液,按完整术语学习；不强行拆分,A clotting factor participates in the coagulation process.,凝血因子参与凝血过程。,2
+term-leukemia,leukemia,白血病,noun / noun phrase,血液,按完整术语学习；不强行拆分,Leukemia affects blood-forming tissues.,白血病累及造血组织。,2
+term-blast,blast,原始细胞,noun / noun phrase,血液,按完整术语学习；不强行拆分,An increased blast population requires specialist evaluation.,原始细胞群增多需要专科评估。,2
+term-lymph-node,lymph node,淋巴结,noun / noun phrase,免疫,按完整术语学习；不强行拆分,A lymph node filters lymph and supports immune responses.,淋巴结过滤淋巴并支持免疫反应。,2
+term-lymphadenopathy,lymphadenopathy,淋巴结肿大或异常,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Lymphadenopathy requires interpretation of distribution and duration.,淋巴结异常需结合分布和持续时间解释。,2
+term-spleen,spleen,脾脏,noun / noun phrase,免疫,按完整术语学习；不强行拆分,The spleen participates in blood filtration and immune function.,脾脏参与血液过滤与免疫功能。,2
+term-lymphoma,lymphoma,淋巴瘤,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Lymphoma is a malignancy of lymphoid cells.,淋巴瘤是淋巴细胞相关的恶性肿瘤。,2
+term-antigen,antigen,抗原,noun / noun phrase,免疫,按完整术语学习；不强行拆分,An antigen can be recognized by components of the immune system.,抗原可被免疫系统成分识别。,2
+term-antibody,antibody,抗体,noun / noun phrase,免疫,按完整术语学习；不强行拆分,An antibody binds a particular antigenic target.,抗体结合特定抗原靶点。,2
+term-innate-immunity,innate immunity,先天免疫,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Innate immunity provides rapid defense mechanisms.,先天免疫提供快速防御机制。,2
+term-adaptive-immunity,adaptive immunity,适应性免疫,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Adaptive immunity can develop antigen-specific memory.,适应性免疫可形成抗原特异性记忆。,2
+term-complement,complement,补体,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Complement proteins participate in immune defense and inflammation.,补体蛋白参与免疫防御和炎症。,2
+term-autoantibody,autoantibody,自身抗体,noun / noun phrase,免疫,按完整术语学习；不强行拆分,An autoantibody alone does not always establish autoimmune disease.,自身抗体单独阳性并不总能确立自身免疫疾病。,2
+term-allergy,allergy,过敏,noun / noun phrase,免疫,按完整术语学习；不强行拆分,An allergy involves an immune response to a substance.,过敏涉及对某物质的免疫反应。,2
+term-hypersensitivity,hypersensitivity,超敏反应,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Hypersensitivity involves an excessive or inappropriate immune response.,超敏反应涉及过度或不恰当的免疫反应。,2
+term-urticaria,urticaria,荨麻疹,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Urticaria produces transient raised wheals.,荨麻疹产生暂时性隆起风团。,2
+term-anaphylaxis,anaphylaxis,严重全身过敏反应,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Anaphylaxis is a potentially life-threatening systemic allergic reaction.,严重全身过敏反应可能危及生命。,2
+term-systemic-lupus-erythematosus,systemic lupus erythematosus,系统性红斑狼疮,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Systemic lupus erythematosus is commonly abbreviated SLE.,系统性红斑狼疮常缩写为SLE。,2
+term-autoimmunity,autoimmunity,自身免疫,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Autoimmunity involves immune responses against self-components.,自身免疫涉及针对自身成分的免疫反应。,2
+term-photosensitivity,photosensitivity,光敏感,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Photosensitivity may produce symptoms after sunlight exposure.,光敏感可在日晒后引起症状。,2
+term-arthritis,arthritis,关节炎,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Arthritis involves inflammation of a joint.,关节炎涉及关节炎症。,2
+term-immunosuppression,immunosuppression,免疫抑制,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Immunosuppression can increase susceptibility to infection.,免疫抑制可增加感染易感性。,2
+term-opportunistic-infection,opportunistic infection,机会性感染,noun / noun phrase,免疫,按完整术语学习；不强行拆分,An opportunistic infection may occur when host defenses are impaired.,宿主防御受损时可发生机会性感染。,2
+term-vaccination,vaccination,疫苗接种,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Vaccination decisions depend on immune status and vaccine type.,接种决策取决于免疫状态和疫苗类型。,2
+term-remission,remission,缓解,noun / noun phrase,免疫,按完整术语学习；不强行拆分,Remission describes reduced or absent disease activity under defined conditions.,缓解描述特定条件下疾病活动减轻或消失。,2
+term-relapse,relapse,复发,noun / noun phrase,免疫,按完整术语学习；不强行拆分,A relapse is a return of disease activity after improvement.,复发是好转后疾病活动再次出现。,2
+term-hormone,hormone,激素,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,A hormone acts on cells with suitable receptors.,激素作用于具有合适受体的细胞。,2
+term-receptor,receptor,受体,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,A receptor recognizes a signaling molecule.,受体识别信号分子。,2
+term-negative-feedback,negative feedback,负反馈,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Negative feedback limits further hormone release.,负反馈限制进一步激素释放。,2
+term-pituitary-gland,pituitary gland,垂体,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,The pituitary gland regulates several endocrine axes.,垂体调节多个内分泌轴。,2
+term-thyroid-gland,thyroid gland,甲状腺,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,The thyroid gland produces thyroid hormones.,甲状腺产生甲状腺激素。,2
+term-adrenal-gland,adrenal gland,肾上腺,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,The adrenal gland produces several classes of hormones.,肾上腺产生多类激素。,2
+term-thyroid-stimulating-hormone,thyroid-stimulating hormone,促甲状腺激素,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Thyroid-stimulating hormone is abbreviated TSH.,促甲状腺激素缩写为TSH。,2
+term-thyroxine,thyroxine,甲状腺素,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Thyroxine is also called T4.,甲状腺素也称T4。,2
+term-cortisol,cortisol,皮质醇,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Cortisol secretion is regulated through an endocrine feedback axis.,皮质醇分泌受内分泌反馈轴调节。,2
+term-insulin,insulin,胰岛素,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Insulin helps regulate blood glucose.,胰岛素有助于调节血糖。,2
+term-diabetes-mellitus,diabetes mellitus,糖尿病,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Diabetes mellitus involves chronic hyperglycemia.,糖尿病涉及慢性高血糖。,2
+term-hyperglycemia,hyperglycemia,高血糖,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Hyperglycemia may cause thirst and increased urination.,高血糖可导致口渴和排尿增多。,2
+term-insulin-resistance,insulin resistance,胰岛素抵抗,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Insulin resistance reduces the response to insulin.,胰岛素抵抗使机体对胰岛素反应降低。,2
+term-polydipsia,polydipsia,多饮,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Polydipsia describes excessive thirst or drinking.,多饮描述过度口渴或饮水。,2
+term-glycated-hemoglobin,glycated hemoglobin,糖化血红蛋白,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Glycated hemoglobin reflects glucose exposure over preceding weeks to months.,糖化血红蛋白反映此前数周至数月血糖暴露。,2
+term-hypoglycemia,hypoglycemia,低血糖,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,"Hypoglycemia can cause sweating, confusion, or loss of consciousness.",低血糖可引起出汗、意识混乱或意识丧失。,2
+term-diabetic-ketoacidosis,diabetic ketoacidosis,糖尿病酮症酸中毒,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Diabetic ketoacidosis combines ketone accumulation with metabolic acidosis.,糖尿病酮症酸中毒结合酮体积聚和代谢性酸中毒。,2
+term-ketone,ketone,酮体,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Ketones can accumulate when insulin availability is insufficient.,胰岛素供应不足时酮体可积聚。,2
+term-metabolic-acidosis,metabolic acidosis,代谢性酸中毒,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Metabolic acidosis lowers bicarbonate as a primary disturbance.,代谢性酸中毒以碳酸氢盐降低为原发异常。,2
+term-bicarbonate,bicarbonate,碳酸氢盐,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Bicarbonate contributes to extracellular buffering.,碳酸氢盐参与细胞外缓冲。,2
+term-hyperthyroidism,hyperthyroidism,甲状腺功能亢进,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Hyperthyroidism involves increased synthesis and secretion of thyroid hormones.,甲状腺功能亢进涉及甲状腺激素合成分泌增多。,2
+term-hypothyroidism,hypothyroidism,甲状腺功能减退,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Hypothyroidism results from inadequate thyroid hormone action.,甲状腺功能减退源于甲状腺激素作用不足。,2
+term-heat-intolerance,heat intolerance,怕热,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Heat intolerance may occur with thyroid hormone excess.,甲状腺激素过多时可出现怕热。,2
+term-cold-intolerance,cold intolerance,怕冷,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Cold intolerance may accompany hypothyroidism.,怕冷可伴甲状腺功能减退。,2
+term-tremor,tremor,震颤,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,A fine tremor may be observed with thyroid hormone excess.,甲状腺激素过多时可见细震颤。,2
+term-constipation,constipation,便秘,noun / noun phrase,消化,按完整术语学习；不强行拆分,Constipation includes difficulty passing stool.,便秘包括排便困难。,2
+term-adrenal-insufficiency,adrenal insufficiency,肾上腺功能不全,noun / noun phrase,内分泌,按完整术语学习；不强行拆分,Adrenal insufficiency can impair the response to physiological stress.,肾上腺功能不全可损害对生理应激的反应。,2
+term-dose,dose,剂量,noun / noun phrase,药理,按完整术语学习；不强行拆分,The dose must be distinguished from the concentration.,剂量必须与浓度区分。,2
+term-route,route,给药途径,noun / noun phrase,药理,按完整术语学习；不强行拆分,The route determines how the medicine enters the body.,给药途径决定药物如何进入体内。,2
+term-frequency,frequency,频次,noun / noun phrase,药理,按完整术语学习；不强行拆分,The prescribed frequency is recorded separately from dose.,处方频次与剂量分别记录。,2
+term-formulation,formulation,剂型,noun / noun phrase,药理,按完整术语学习；不强行拆分,Different formulations may have different instructions.,不同剂型可能有不同使用说明。,2
+term-oral,oral,口服的,adjective,药理,按完整术语学习；不强行拆分,An oral medicine is taken by mouth.,口服药经口服用。,2
+term-intravenous,intravenous,静脉内的,adjective,药理,按完整术语学习；不强行拆分,An intravenous medicine enters through a vein.,静脉药物经静脉进入体内。,2
+term-subcutaneous,subcutaneous,皮下的,adjective,药理,按完整术语学习；不强行拆分,A subcutaneous injection is delivered beneath the skin.,皮下注射在皮肤下方给药。,2
+term-medication-reconciliation,medication reconciliation,用药核对,noun / noun phrase,药理,按完整术语学习；不强行拆分,Medication reconciliation compares medicine lists across care transitions.,用药核对比较医疗转换期间的药物清单。,2
+term-adherence,adherence,依从性,noun / noun phrase,药理,按完整术语学习；不强行拆分,Adherence includes following the agreed dosing schedule.,依从性包括遵循约定给药安排。,2
+term-monitoring,monitoring,监测,noun / noun phrase,药理,按完整术语学习；不强行拆分,Monitoring helps assess benefit and harm over time.,监测有助于随时间评估获益与伤害。,2
+term-glucocorticoid,glucocorticoid,糖皮质激素,noun / noun phrase,药理,按完整术语学习；不强行拆分,A glucocorticoid can suppress inflammation and immune activity.,糖皮质激素可抑制炎症与免疫活动。,2
+term-withdrawal,withdrawal,停药；撤药,noun / noun phrase,药理,按完整术语学习；不强行拆分,Withdrawal requires attention to the drug and duration of exposure.,停药需要关注药物及暴露时长。,2
+term-culture,culture,培养,noun / noun phrase,药理,按完整术语学习；不强行拆分,A culture may help identify an organism.,培养可能帮助确定微生物。,2
+term-susceptibility,susceptibility,敏感性,noun / noun phrase,药理,按完整术语学习；不强行拆分,Susceptibility results guide interpretation of antimicrobial options.,药敏结果指导抗微生物药物选择的解释。,2
+term-empirical-treatment,empirical treatment,经验性治疗,noun / noun phrase,药理,按完整术语学习；不强行拆分,Empirical treatment begins before the exact organism is known.,经验性治疗在明确微生物前开始。,2
+term-targeted-treatment,targeted treatment,针对性治疗,noun / noun phrase,药理,按完整术语学习；不强行拆分,Targeted treatment is guided by more specific evidence.,针对性治疗由更具体证据指导。,2
+term-antimicrobial-resistance,antimicrobial resistance,抗微生物药物耐药性,noun / noun phrase,药理,按完整术语学习；不强行拆分,Antimicrobial resistance limits the activity of a drug against an organism.,耐药性限制药物对微生物的作用。,2
+term-therapeutic-range,therapeutic range,治疗范围,noun / noun phrase,药理,按完整术语学习；不强行拆分,A therapeutic range must be interpreted for the specific drug and test.,治疗范围需针对具体药物与检查解释。,2
+term-interaction,interaction,相互作用,noun / noun phrase,药理,按完整术语学习；不强行拆分,An interaction can alter drug exposure or effect.,相互作用可改变药物暴露或效应。,2
+term-clearance,clearance,清除率,noun / noun phrase,药理,按完整术语学习；不强行拆分,Clearance contributes to the rate of drug elimination.,清除率影响药物消除速率。,2
+term-benefit,benefit,获益,noun / noun phrase,药理,按完整术语学习；不强行拆分,The expected benefit should be weighed against potential harm.,应权衡预期获益与潜在伤害。,2
+term-harm,harm,伤害,noun / noun phrase,药理,按完整术语学习；不强行拆分,Harm can occur even when a medicine is prescribed correctly.,即使处方正确也可能发生伤害。,2
+term-diuretic,diuretic,利尿药,noun / noun phrase,药理,按完整术语学习；不强行拆分,A diuretic promotes urinary sodium and water loss through its renal effects.,利尿药通过肾脏作用促进尿钠和水排出。,2
+term-taper,taper,逐渐减量,verb / noun,药理,按完整术语学习；不强行拆分,A taper reduces a dose according to an individualized plan.,逐渐减量按个体计划降低剂量。,2
+term-half-life,half-life,半衰期,noun / noun phrase,药理,按完整术语学习；不强行拆分,Half-life describes the time for a concentration to decrease by half under specified conditions.,半衰期描述特定条件下浓度降低一半所需时间。,2
+term-metabolism,metabolism,代谢,noun / noun phrase,药理,按完整术语学习；不强行拆分,Drug metabolism may occur in the liver and other tissues.,药物代谢可在肝脏及其他组织发生。,2
+term-excretion,excretion,排泄,noun / noun phrase,药理,按完整术语学习；不强行拆分,Renal excretion removes some drugs or metabolites.,肾排泄清除某些药物或代谢物。,2
+term-bioavailability,bioavailability,生物利用度,noun / noun phrase,药理,按完整术语学习；不强行拆分,Bioavailability describes the fraction reaching the systemic circulation unchanged.,生物利用度描述原形药进入体循环的比例。,2
+term-toxicity,toxicity,毒性,noun / noun phrase,药理,按完整术语学习；不强行拆分,"Toxicity may depend on concentration, duration, and susceptibility.",毒性可取决于浓度、时长及易感性。,2
+term-ischemic-stroke,ischemic stroke,缺血性卒中,noun / noun phrase,影像,按完整术语学习；不强行拆分,An ischemic stroke results from interrupted cerebral blood supply.,缺血性卒中源于脑血供中断。,2
+term-hemorrhagic-stroke,hemorrhagic stroke,出血性卒中,noun / noun phrase,影像,按完整术语学习；不强行拆分,A hemorrhagic stroke involves bleeding in or around the brain.,出血性卒中涉及脑内或周围出血。,2
+term-focal-deficit,focal deficit,局灶性功能缺损,noun / noun phrase,影像,按完整术语学习；不强行拆分,A focal deficit affects a specific neurological function.,局灶性缺损累及特定神经功能。,2
+term-hemiparesis,hemiparesis,偏轻瘫；单侧肢体无力,noun / noun phrase,影像,按完整术语学习；不强行拆分,Hemiparesis affects strength on one side of the body.,偏轻瘫表现为身体一侧肌力减弱。,2
+term-aphasia,aphasia,失语,noun / noun phrase,影像,按完整术语学习；不强行拆分,Aphasia affects language production or comprehension.,失语影响语言表达或理解。,2
+term-dysarthria,dysarthria,构音障碍,noun / noun phrase,影像,按完整术语学习；不强行拆分,Dysarthria affects the motor production of speech.,构音障碍影响言语的运动性产生。,2
+term-last-known-well,last known well,最后正常时间,noun / noun phrase,影像,按完整术语学习；不强行拆分,The last known well time is documented separately from discovery time.,最后正常时间与发现时间分别记录。,2
+term-computed-tomography,computed tomography,计算机断层扫描,noun / noun phrase,影像,按完整术语学习；不强行拆分,Computed tomography is commonly abbreviated CT.,计算机断层扫描常缩写为CT。,2
+term-magnetic-resonance-imaging,magnetic resonance imaging,磁共振成像,noun / noun phrase,影像,按完整术语学习；不强行拆分,Magnetic resonance imaging is commonly abbreviated MRI.,磁共振成像常缩写为MRI。,2
+term-infarction,infarction,梗死,noun / noun phrase,影像,按完整术语学习；不强行拆分,Infarction involves tissue death related to inadequate blood supply.,梗死涉及血供不足相关的组织死亡。,2
+term-malignancy,malignancy,恶性肿瘤,noun / noun phrase,影像,按完整术语学习；不强行拆分,Malignancy requires appropriate diagnostic evidence.,恶性肿瘤需要相应诊断证据。,2
+term-metastasis,metastasis,转移,noun / noun phrase,影像,按完整术语学习；不强行拆分,Metastasis describes spread to a distant site.,转移描述播散至远处部位。,2
+term-staging,staging,分期,noun / noun phrase,影像,按完整术语学习；不强行拆分,Staging describes the extent of a cancer.,分期描述肿瘤范围。,2
+term-grading,grading,分级,noun / noun phrase,影像,按完整术语学习；不强行拆分,Grading describes microscopic features related to tumor differentiation or aggressiveness.,分级描述与分化或侵袭性相关的显微特征。,2
+term-carcinoma,carcinoma,癌,noun / noun phrase,影像,按完整术语学习；不强行拆分,A carcinoma arises from epithelial cells.,癌起源于上皮细胞。,2
+term-sarcoma,sarcoma,肉瘤,noun / noun phrase,影像,按完整术语学习；不强行拆分,A sarcoma arises from mesenchymal tissues.,肉瘤起源于间叶组织。,2
+term-primary-tumor,primary tumor,原发肿瘤,noun / noun phrase,影像,按完整术语学习；不强行拆分,The primary tumor is distinguished from a distant deposit.,原发肿瘤与远处转移灶区分。,2
+term-biomarker,biomarker,生物标志物,noun / noun phrase,影像,按完整术语学习；不强行拆分,A biomarker can contribute to diagnosis or monitoring depending on its use.,生物标志物可依用途参与诊断或监测。,2
+term-contrast-medium,contrast medium,对比剂,noun / noun phrase,影像,按完整术语学习；不强行拆分,A contrast medium can improve visualization of selected structures.,对比剂可改善某些结构的显示。,2
+term-radiation-exposure,radiation exposure,辐射暴露,noun / noun phrase,影像,按完整术语学习；不强行拆分,Radiation exposure is considered when choosing an imaging test.,选择影像检查时考虑辐射暴露。,2
+term-incidental-finding,incidental finding,偶然发现,noun / noun phrase,影像,按完整术语学习；不强行拆分,An incidental finding is unrelated to the original reason for the examination.,偶然发现与最初检查原因无关。,2
+term-sensitivity,sensitivity,敏感度,noun / noun phrase,影像,按完整术语学习；不强行拆分,Sensitivity concerns detection among people with the condition.,敏感度涉及在患病人群中的检出。,2
+term-specificity,specificity,特异度,noun / noun phrase,影像,按完整术语学习；不强行拆分,Specificity concerns negative results among people without the condition.,特异度涉及未患病人群中的阴性结果。,2
+term-pretest-probability,pretest probability,检验前概率,noun / noun phrase,影像,按完整术语学习；不强行拆分,Pretest probability influences the meaning of a test result.,检验前概率影响检查结果意义。,2
+term-false-positive,false positive,假阳性,noun / noun phrase,影像,按完整术语学习；不强行拆分,A false positive result occurs without the target condition.,假阳性是在无目标疾病时出现阳性结果。,2
+term-false-negative,false negative,假阴性,noun / noun phrase,影像,按完整术语学习；不强行拆分,A false negative result misses the target condition.,假阴性未检出目标疾病。,2

@@ -1,0 +1,25 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+tmp/
+
+.venv-pdf/
+
+# 本机报告、备份、导出记录和PDF不进入公开代码仓库。
+/output/
+/pdf_output/
+/publish_output/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.db
+*.zip
+*.pdf
+medicine-english-progress*.json
