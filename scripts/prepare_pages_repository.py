@@ -9,7 +9,7 @@ from pages_security import inspect_repository
 
 ROOT = Path(__file__).resolve().parents[1]
 DIRECTORIES = ['src', 'public', 'tests', 'curriculum', 'exams', 'vocabulary', 'translation', 'cases', 'content_review', '.github']
-FILES = ['package.json', 'package-lock.json', 'vite.config.ts', 'index.html', 'tsconfig.json', '.gitignore', 'STUDY_PLAN.md', 'DEPLOYMENT.md',
+FILES = ['offline-plugin.ts', 'docs/OFFLINE.md', 'scripts/offline_browser_check.cjs', 'scripts/service-worker.template.js', 'package.json', 'package-lock.json', 'vite.config.ts', 'index.html', 'tsconfig.json', '.gitignore', 'STUDY_PLAN.md', 'DEPLOYMENT.md',
          'scripts/build_content.py', 'scripts/validate_content.py', 'scripts/pages_security.py', 'scripts/verify_pages.py',
          'scripts/prepare_pages_repository.py', 'scripts/browser_check.cjs', 'docs/PUBLIC_README.txt']
 

@@ -23,6 +23,7 @@ import {
   LearningStats,
 } from "./StudyTools";
 import "./styles.css";
+import { OfflineStatus } from "./OfflineStatus";
 import referenceData from "../content_review/references.json";
 const references: Record<string, { title: string; url: string }> =
   referenceData;
@@ -182,6 +183,7 @@ export function App() {
           </label>
         </div>
       </header>
+      <OfflineStatus />
       <div className="shell">
         <aside>
           <p className="eyebrow">YOUR STUDY SPACE</p>

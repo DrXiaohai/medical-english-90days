@@ -42,7 +42,7 @@ VITE_BASE_PATH=/medical-english/ npm run preview -- --port 4174
 
 发布成功后，在Safari打开实际Pages网址，点击分享，再选择“添加到主屏幕”。图标、启动地址、语言和独立窗口显示方式由manifest.webmanifest及Apple图标定义。
 
-当前已准备Manifest和图标，尚无Service Worker缓存。离线冷启动与自动缓存更新需要后续PWA功能。未来Service Worker应通过Vite BASE_URL生成注册地址和scope，并采用按发布版本区分的缓存；缓存只处理静态资源，学习记录继续使用IndexedDB。
+首次联网打开后，等待顶部显示“90天课程已缓存，可离线学习”，便可断网重开。添加到主屏幕后，请从该图标联网打开一次确认缓存。更新完整下载后等待当前窗口结束；关闭全部课程窗口再重开应用更新。缓存只处理本站静态资源，学习记录继续使用IndexedDB。详见[离线说明](docs/OFFLINE.md)。
 
 ## 学习记录
 

@@ -1,5 +1,6 @@
 # coding: utf-8
 """检查构建后的Pages资源、清单作用域和课程数据。"""
+import hashlib
 import argparse
 import json
 import os
@@ -48,6 +49,20 @@ def verify(base):
         path = urlparse(urljoin(manifest_url, icon['src'])).path
         if not path.startswith(base) or not (dist / path[len(base):]).is_file():
             raise ValueError('图标路径不匹配')
+    offline = json.loads((dist / 'offline-manifest.json').read_text())
+    if offline['base'] != base or not (dist / 'sw.js').is_file():
+        raise ValueError('离线缓存作用域不正确')
+    worker = (dist / 'sw.js').read_text()
+    if '__OFFLINE_CONFIG__' in worker or offline['version'] not in worker:
+        raise ValueError('Service Worker未完成版本配置')
+    for entry in offline['resources']:
+        if not entry['url'].startswith(base):
+            raise ValueError('离线资源超出作用域')
+        file = dist / entry['url'][len(base):]
+        if not file.is_file() or hashlib.sha256(file.read_bytes()).hexdigest() != entry['sha256']:
+            raise ValueError('离线资源内容哈希不匹配')
+    if base+'index.html' not in {entry['url'] for entry in offline['resources']}:
+        raise ValueError('缺少离线入口页')
     scripts = '\n'.join(p.read_text() for p in (dist / 'assets').glob('*.js'))
     for d in load_lessons():
         if d['id'] not in scripts or any(q['id'] not in scripts for q in d['questions']+d['translations']):
@@ -59,7 +74,7 @@ def verify(base):
         raise ValueError('部署产物混入PDF或压缩备份')
     return {'status': 'passed', 'base': base, 'courses': 90, 'exams': len(load_exams()),
             'staticAssets': len(parser.urls), 'manifestScope': base,
-            'serviceWorker': 'not implemented', 'offlineColdStart': 'not available'}
+            'serviceWorker': 'versioned verified precache', 'offlineResources': len(offline['resources']), 'offlineColdStart': 'available after initial cache completes'}
 
 
 if __name__ == '__main__':
